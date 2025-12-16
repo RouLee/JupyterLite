@@ -1,0 +1,2104 @@
+Stand,Stand_Gemeindegrenzen,Gebietstyp_Code,Gebietstyp,Gebiet_Code,Gebiet_Bezeichnung,Total_Abschluss_gymnasial,Total_19_Jahre_alt,Maturitaetsquote_gymnasial
+2025-11-27,2014,1,Kanton,1,Kanton Zürich,10001,55288,18.09
+2025-11-27,2014,2,Bezirk,101,Bezirk Affoltern,488,2310,21.12
+2025-11-27,2014,2,Bezirk,102,Bezirk Andelfingen,178,1456,12.22
+2025-11-27,2014,2,Bezirk,103,Bezirk Bülach,705,5703,12.37
+2025-11-27,2014,2,Bezirk,104,Bezirk Dielsdorf,376,3731,10.07
+2025-11-27,2014,2,Bezirk,105,Bezirk Hinwil,637,4271,14.92
+2025-11-27,2014,2,Bezirk,106,Bezirk Horgen,976,4522,21.58
+2025-11-27,2014,2,Bezirk,107,Bezirk Meilen,1288,3831,33.62
+2025-11-27,2014,2,Bezirk,108,Bezirk Pfäffikon,369,2548,14.48
+2025-11-27,2014,2,Bezirk,109,Bezirk Uster,858,5132,16.72
+2025-11-27,2014,2,Bezirk,110,Bezirk Winterthur,1258,6768,18.58
+2025-11-27,2014,2,Bezirk,111,Bezirk Dietikon,445,3523,12.63
+2025-11-27,2014,2,Bezirk,112,Bezirk Zürich,2423,11493,21.08
+2025-11-27,2014,3,Gemeinde,1,Aeugst am Albis,25,85,29.41
+2025-11-27,2014,3,Gemeinde,2,Affoltern am Albis,77,576,13.37
+2025-11-27,2014,3,Gemeinde,3,Bonstetten,74,230,32.17
+2025-11-27,2014,3,Gemeinde,4,Hausen am Albis,29,155,18.71
+2025-11-27,2014,3,Gemeinde,5,Hedingen,54,206,26.21
+2025-11-27,2014,3,Gemeinde,6,Kappel am Albis,NULL,35,NULL
+2025-11-27,2014,3,Gemeinde,7,Knonau,8,105,7.62
+2025-11-27,2014,3,Gemeinde,8,Maschwanden,NULL,33,NULL
+2025-11-27,2014,3,Gemeinde,9,Mettmenstetten,36,206,17.48
+2025-11-27,2014,3,Gemeinde,10,Obfelden,39,228,17.11
+2025-11-27,2014,3,Gemeinde,11,Ottenbach,28,124,22.58
+2025-11-27,2014,3,Gemeinde,12,Rifferswil,NULL,43,NULL
+2025-11-27,2014,3,Gemeinde,13,Stallikon,40,124,32.26
+2025-11-27,2014,3,Gemeinde,14,Wettswil am Albis,65,160,40.63
+2025-11-27,2014,3,Gemeinde,21,Adlikon,NULL,20,NULL
+2025-11-27,2014,3,Gemeinde,22,Benken (ZH),NULL,34,NULL
+2025-11-27,2014,3,Gemeinde,23,Berg am Irchel,NULL,29,NULL
+2025-11-27,2014,3,Gemeinde,24,Buch am Irchel,7,52,13.47
+2025-11-27,2014,3,Gemeinde,25,Dachsen,19,112,16.97
+2025-11-27,2014,3,Gemeinde,26,Dorf,NULL,46,NULL
+2025-11-27,2014,3,Gemeinde,27,Feuerthalen,2,148,1.35
+2025-11-27,2014,3,Gemeinde,28,Flaach,9,76,11.84
+2025-11-27,2014,3,Gemeinde,29,Flurlingen,7,67,10.45
+2025-11-27,2014,3,Gemeinde,30,Andelfingen,15,88,17.05
+2025-11-27,2014,3,Gemeinde,31,Henggart,16,89,17.98
+2025-11-27,2014,3,Gemeinde,32,Humlikon,NULL,30,NULL
+2025-11-27,2014,3,Gemeinde,33,Kleinandelfingen,12,97,12.37
+2025-11-27,2014,3,Gemeinde,34,Laufen-Uhwiesen,5,58,8.62
+2025-11-27,2014,3,Gemeinde,35,Marthalen,13,115,11.30
+2025-11-27,2014,3,Gemeinde,36,Oberstammheim,9,54,16.66
+2025-11-27,2014,3,Gemeinde,37,Ossingen,5,55,9.09
+2025-11-27,2014,3,Gemeinde,38,Rheinau,6,79,7.59
+2025-11-27,2014,3,Gemeinde,39,Thalheim an der Thur,NULL,42,NULL
+2025-11-27,2014,3,Gemeinde,40,Trüllikon,NULL,31,NULL
+2025-11-27,2014,3,Gemeinde,41,Truttikon,NULL,25,NULL
+2025-11-27,2014,3,Gemeinde,42,Unterstammheim,NULL,47,NULL
+2025-11-27,2014,3,Gemeinde,43,Volken,NULL,15,NULL
+2025-11-27,2014,3,Gemeinde,44,Waltalingen,NULL,47,NULL
+2025-11-27,2014,3,Gemeinde,51,Bachenbülach,22,173,12.72
+2025-11-27,2014,3,Gemeinde,52,Bassersdorf,57,452,12.61
+2025-11-27,2014,3,Gemeinde,53,Bülach,107,791,13.52
+2025-11-27,2014,3,Gemeinde,54,Dietlikon,18,278,6.47
+2025-11-27,2014,3,Gemeinde,55,Eglisau,31,196,15.82
+2025-11-27,2014,3,Gemeinde,56,Embrach,45,427,10.54
+2025-11-27,2014,3,Gemeinde,57,Freienstein-Teufen,14,108,12.97
+2025-11-27,2014,3,Gemeinde,58,Glattfelden,31,223,13.90
+2025-11-27,2014,3,Gemeinde,59,Hochfelden,17,97,17.52
+2025-11-27,2014,3,Gemeinde,60,Höri,8,127,6.30
+2025-11-27,2014,3,Gemeinde,61,Hüntwangen,NULL,48,NULL
+2025-11-27,2014,3,Gemeinde,62,Kloten,61,728,8.38
+2025-11-27,2014,3,Gemeinde,63,Lufingen,8,76,10.53
+2025-11-27,2014,3,Gemeinde,64,Nürensdorf,49,208,23.56
+2025-11-27,2014,3,Gemeinde,65,Oberembrach,NULL,46,NULL
+2025-11-27,2014,3,Gemeinde,66,Opfikon,45,598,7.53
+2025-11-27,2014,3,Gemeinde,67,Rafz,36,215,16.74
+2025-11-27,2014,3,Gemeinde,68,Rorbas,11,154,7.14
+2025-11-27,2014,3,Gemeinde,69,Wallisellen,75,508,14.77
+2025-11-27,2014,3,Gemeinde,70,Wasterkingen,NULL,26,NULL
+2025-11-27,2014,3,Gemeinde,71,Wil (ZH),12,69,17.39
+2025-11-27,2014,3,Gemeinde,72,Winkel,42,155,27.10
+2025-11-27,2014,3,Gemeinde,81,Bachs,NULL,24,NULL
+2025-11-27,2014,3,Gemeinde,82,Boppelsen,NULL,42,NULL
+2025-11-27,2014,3,Gemeinde,83,Buchs (ZH),28,285,9.82
+2025-11-27,2014,3,Gemeinde,84,Dällikon,14,162,8.64
+2025-11-27,2014,3,Gemeinde,85,Dänikon,15,100,15.00
+2025-11-27,2014,3,Gemeinde,86,Dielsdorf,18,237,7.60
+2025-11-27,2014,3,Gemeinde,87,Hüttikon,NULL,29,NULL
+2025-11-27,2014,3,Gemeinde,88,Neerach,14,108,12.96
+2025-11-27,2014,3,Gemeinde,89,Niederglatt,26,224,11.61
+2025-11-27,2014,3,Gemeinde,90,Niederhasli,44,457,9.63
+2025-11-27,2014,3,Gemeinde,91,Niederweningen,26,149,17.45
+2025-11-27,2014,3,Gemeinde,92,Oberglatt,14,283,4.95
+2025-11-27,2014,3,Gemeinde,93,Oberweningen,14,89,15.73
+2025-11-27,2014,3,Gemeinde,94,Otelfingen,19,116,16.38
+2025-11-27,2014,3,Gemeinde,95,Regensberg,NULL,7,NULL
+2025-11-27,2014,3,Gemeinde,96,Regensdorf,56,707,7.92
+2025-11-27,2014,3,Gemeinde,97,Rümlang,30,313,9.59
+2025-11-27,2014,3,Gemeinde,98,Schleinikon,5,51,9.80
+2025-11-27,2014,3,Gemeinde,99,Schöfflisdorf,7,72,9.72
+2025-11-27,2014,3,Gemeinde,100,Stadel,10,87,11.49
+2025-11-27,2014,3,Gemeinde,101,Steinmaur,15,134,11.19
+2025-11-27,2014,3,Gemeinde,102,Weiach,8,55,14.55
+2025-11-27,2014,3,Gemeinde,111,Bäretswil,21,223,9.42
+2025-11-27,2014,3,Gemeinde,112,Bubikon,63,304,20.73
+2025-11-27,2014,3,Gemeinde,113,Dürnten,51,364,14.01
+2025-11-27,2014,3,Gemeinde,114,Fischenthal,9,123,7.31
+2025-11-27,2014,3,Gemeinde,115,Gossau (ZH),79,473,16.70
+2025-11-27,2014,3,Gemeinde,116,Grüningen,26,144,18.06
+2025-11-27,2014,3,Gemeinde,117,Hinwil,75,494,15.18
+2025-11-27,2014,3,Gemeinde,118,Rüti (ZH),81,583,13.90
+2025-11-27,2014,3,Gemeinde,119,Seegräben,15,56,26.79
+2025-11-27,2014,3,Gemeinde,120,Wald (ZH),56,454,12.33
+2025-11-27,2014,3,Gemeinde,121,Wetzikon (ZH),161,1053,15.28
+2025-11-27,2014,3,Gemeinde,131,Adliswil,122,667,18.29
+2025-11-27,2014,3,Gemeinde,132,Hirzel,14,100,14.00
+2025-11-27,2014,3,Gemeinde,133,Horgen,118,710,16.62
+2025-11-27,2014,3,Gemeinde,134,Hütten,8,54,14.81
+2025-11-27,2014,3,Gemeinde,135,Kilchberg (ZH),90,239,37.66
+2025-11-27,2014,3,Gemeinde,136,Langnau am Albis,65,297,21.89
+2025-11-27,2014,3,Gemeinde,137,Oberrieden,59,192,30.73
+2025-11-27,2014,3,Gemeinde,138,Richterswil,99,565,17.52
+2025-11-27,2014,3,Gemeinde,139,Rüschlikon,67,210,31.90
+2025-11-27,2014,3,Gemeinde,140,Schönenberg (ZH),13,100,13.00
+2025-11-27,2014,3,Gemeinde,141,Thalwil,150,553,27.12
+2025-11-27,2014,3,Gemeinde,142,Wädenswil,171,835,20.48
+2025-11-27,2014,3,Gemeinde,151,Erlenbach (ZH),102,209,48.81
+2025-11-27,2014,3,Gemeinde,152,Herrliberg,110,263,41.82
+2025-11-27,2014,3,Gemeinde,153,Hombrechtikon,53,353,15.01
+2025-11-27,2014,3,Gemeinde,154,Küsnacht (ZH),213,485,43.92
+2025-11-27,2014,3,Gemeinde,155,Männedorf,118,386,30.57
+2025-11-27,2014,3,Gemeinde,156,Meilen,179,484,36.98
+2025-11-27,2014,3,Gemeinde,157,Oetwil am See,19,214,8.88
+2025-11-27,2014,3,Gemeinde,158,Stäfa,153,564,27.13
+2025-11-27,2014,3,Gemeinde,159,Uetikon am See,86,282,30.50
+2025-11-27,2014,3,Gemeinde,160,Zumikon,77,195,39.49
+2025-11-27,2014,3,Gemeinde,161,Zollikon,178,396,44.95
+2025-11-27,2014,3,Gemeinde,171,Bauma,27,283,9.54
+2025-11-27,2014,3,Gemeinde,172,Fehraltorf,44,264,16.67
+2025-11-27,2014,3,Gemeinde,173,Hittnau,20,210,9.52
+2025-11-27,2014,3,Gemeinde,174,Illnau-Effretikon,88,601,14.64
+2025-11-27,2014,3,Gemeinde,175,Kyburg,NULL,18,NULL
+2025-11-27,2014,3,Gemeinde,176,Lindau,28,248,11.29
+2025-11-27,2014,3,Gemeinde,177,Pfäffikon,71,441,16.10
+2025-11-27,2014,3,Gemeinde,178,Russikon,41,189,21.70
+2025-11-27,2014,3,Gemeinde,179,Sternenberg,NULL,14,NULL
+2025-11-27,2014,3,Gemeinde,180,Weisslingen,29,149,19.46
+2025-11-27,2014,3,Gemeinde,181,Wila,13,94,13.83
+2025-11-27,2014,3,Gemeinde,182,Wildberg,NULL,37,NULL
+2025-11-27,2014,3,Gemeinde,191,Dübendorf,113,874,12.93
+2025-11-27,2014,3,Gemeinde,192,Egg,96,403,23.82
+2025-11-27,2014,3,Gemeinde,193,Fällanden,64,294,21.77
+2025-11-27,2014,3,Gemeinde,194,Greifensee,72,235,30.64
+2025-11-27,2014,3,Gemeinde,195,Maur,102,395,25.82
+2025-11-27,2014,3,Gemeinde,196,Mönchaltorf,31,130,23.85
+2025-11-27,2014,3,Gemeinde,197,Schwerzenbach,27,216,12.50
+2025-11-27,2014,3,Gemeinde,198,Uster,233,1406,16.58
+2025-11-27,2014,3,Gemeinde,199,Volketswil,66,791,8.34
+2025-11-27,2014,3,Gemeinde,200,Wangen-Brüttisellen,54,388,13.92
+2025-11-27,2014,3,Gemeinde,211,Altikon,NULL,31,NULL
+2025-11-27,2014,3,Gemeinde,213,Brütten,22,106,20.75
+2025-11-27,2014,3,Gemeinde,214,Dägerlen,NULL,49,NULL
+2025-11-27,2014,3,Gemeinde,215,Dättlikon,NULL,37,NULL
+2025-11-27,2014,3,Gemeinde,216,Dinhard,16,65,24.62
+2025-11-27,2014,3,Gemeinde,217,Elgg,48,181,26.52
+2025-11-27,2014,3,Gemeinde,218,Ellikon an der Thur,NULL,41,NULL
+2025-11-27,2014,3,Gemeinde,219,Elsau,33,163,20.24
+2025-11-27,2014,3,Gemeinde,220,Hagenbuch,6,55,10.91
+2025-11-27,2014,3,Gemeinde,221,Hettlingen,53,177,29.94
+2025-11-27,2014,3,Gemeinde,222,Hofstetten (ZH),NULL,29,NULL
+2025-11-27,2014,3,Gemeinde,223,Neftenbach,48,288,16.66
+2025-11-27,2014,3,Gemeinde,224,Pfungen,19,155,12.26
+2025-11-27,2014,3,Gemeinde,225,Rickenbach (ZH),10,113,8.85
+2025-11-27,2014,3,Gemeinde,226,Schlatt (ZH),NULL,38,NULL
+2025-11-27,2014,3,Gemeinde,227,Seuzach,45,319,14.10
+2025-11-27,2014,3,Gemeinde,228,Turbenthal,22,217,10.14
+2025-11-27,2014,3,Gemeinde,230,Winterthur,834,4181,19.95
+2025-11-27,2014,3,Gemeinde,231,Zell (ZH),17,225,7.55
+2025-11-27,2014,3,Gemeinde,241,Aesch (ZH),NULL,40,NULL
+2025-11-27,2014,3,Gemeinde,242,Birmensdorf (ZH),42,216,19.44
+2025-11-27,2014,3,Gemeinde,243,Dietikon,90,1135,7.93
+2025-11-27,2014,3,Gemeinde,244,Geroldswil,24,210,11.43
+2025-11-27,2014,3,Gemeinde,245,Oberengstringen,25,256,9.77
+2025-11-27,2014,3,Gemeinde,246,Oetwil an der Limmat,22,96,22.91
+2025-11-27,2014,3,Gemeinde,247,Schlieren,64,734,8.72
+2025-11-27,2014,3,Gemeinde,248,Uitikon,50,131,38.16
+2025-11-27,2014,3,Gemeinde,249,Unterengstringen,18,121,14.88
+2025-11-27,2014,3,Gemeinde,250,Urdorf,68,396,17.17
+2025-11-27,2014,3,Gemeinde,251,Weiningen (ZH),32,188,17.02
+2025-11-27,2014,3,Gemeinde,261,Zürich,2423,11493,21.08
+2025-11-27,2014,3,Gemeinde,291,Andelfingen,24,138,0.17
+2025-11-27,2014,3,Gemeinde,292,Stammheim,25,148,0.17
+2025-11-27,2014,3,Gemeinde,293,Wädenswil,192,989,0.20
+2025-11-27,2014,3,Gemeinde,294,Elgg,53,210,0.25
+2025-11-27,2014,3,Gemeinde,295,Horgen,132,810,0.17
+2025-11-27,2014,3,Gemeinde,296,Illnau-Effretikon,89,619,0.15
+2025-11-27,2014,3,Gemeinde,297,Bauma,28,297,0.10
+2025-11-27,2014,3,Gemeinde,298,Wiesendangen,43,298,14.43
+2025-11-27,2014,6,Raumplanungsregion,101,Zürich,31499,149409,21.08
+2025-11-27,2014,6,Raumplanungsregion,102,Glattal,833,6278,13.27
+2025-11-27,2014,6,Raumplanungsregion,103,Furttal,142,1441,9.86
+2025-11-27,2014,6,Raumplanungsregion,104,Limmattal,445,3523,12.63
+2025-11-27,2014,6,Raumplanungsregion,105,Knonaueramt,488,2310,21.12
+2025-11-27,2014,6,Raumplanungsregion,106,Zimmerberg,976,4522,21.58
+2025-11-27,2014,6,Raumplanungsregion,107,Pfannenstiel,1384,4234,32.69
+2025-11-27,2014,6,Raumplanungsregion,108,Oberland,1124,7339,15.32
+2025-11-27,2014,6,Raumplanungsregion,109,Winterthur u.U.,7242,37051,19.55
+2025-11-27,2014,6,Raumplanungsregion,110,Weinland,178,1456,12.22
+2025-11-27,2014,6,Raumplanungsregion,111,Unterland,604,4908,12.30
+2025-11-27,2015,1,Kanton,1,Kanton Zürich,10207,55358,18.44
+2025-11-27,2015,2,Bezirk,101,Bezirk Affoltern,486,2298,21.14
+2025-11-27,2015,2,Bezirk,102,Bezirk Andelfingen,191,1433,13.33
+2025-11-27,2015,2,Bezirk,103,Bezirk Bülach,760,5753,13.21
+2025-11-27,2015,2,Bezirk,104,Bezirk Dielsdorf,390,3791,10.29
+2025-11-27,2015,2,Bezirk,105,Bezirk Hinwil,654,4198,15.58
+2025-11-27,2015,2,Bezirk,106,Bezirk Horgen,1006,4519,22.26
+2025-11-27,2015,2,Bezirk,107,Bezirk Meilen,1294,3913,33.07
+2025-11-27,2015,2,Bezirk,108,Bezirk Pfäffikon,374,2507,14.92
+2025-11-27,2015,2,Bezirk,109,Bezirk Uster,959,5170,18.55
+2025-11-27,2015,2,Bezirk,110,Bezirk Winterthur,1283,6797,18.88
+2025-11-27,2015,2,Bezirk,111,Bezirk Dietikon,459,3486,13.17
+2025-11-27,2015,2,Bezirk,112,Bezirk Zürich,2351,11493,20.45
+2025-11-27,2015,3,Gemeinde,1,Aeugst am Albis,32,94,34.04
+2025-11-27,2015,3,Gemeinde,2,Affoltern am Albis,84,566,14.84
+2025-11-27,2015,3,Gemeinde,3,Bonstetten,73,227,32.16
+2025-11-27,2015,3,Gemeinde,4,Hausen am Albis,31,146,21.23
+2025-11-27,2015,3,Gemeinde,5,Hedingen,50,205,24.39
+2025-11-27,2015,3,Gemeinde,6,Kappel am Albis,NULL,41,NULL
+2025-11-27,2015,3,Gemeinde,7,Knonau,7,101,6.93
+2025-11-27,2015,3,Gemeinde,8,Maschwanden,NULL,34,NULL
+2025-11-27,2015,3,Gemeinde,9,Mettmenstetten,41,214,19.16
+2025-11-27,2015,3,Gemeinde,10,Obfelden,37,233,15.88
+2025-11-27,2015,3,Gemeinde,11,Ottenbach,20,110,18.18
+2025-11-27,2015,3,Gemeinde,12,Rifferswil,NULL,41,NULL
+2025-11-27,2015,3,Gemeinde,13,Stallikon,41,119,34.45
+2025-11-27,2015,3,Gemeinde,14,Wettswil am Albis,53,167,31.74
+2025-11-27,2015,3,Gemeinde,21,Adlikon,NULL,19,NULL
+2025-11-27,2015,3,Gemeinde,22,Benken (ZH),NULL,29,NULL
+2025-11-27,2015,3,Gemeinde,23,Berg am Irchel,NULL,31,NULL
+2025-11-27,2015,3,Gemeinde,24,Buch am Irchel,NULL,49,NULL
+2025-11-27,2015,3,Gemeinde,25,Dachsen,22,114,19.30
+2025-11-27,2015,3,Gemeinde,26,Dorf,NULL,39,NULL
+2025-11-27,2015,3,Gemeinde,27,Feuerthalen,2,137,1.46
+2025-11-27,2015,3,Gemeinde,28,Flaach,11,73,15.07
+2025-11-27,2015,3,Gemeinde,29,Flurlingen,6,66,9.09
+2025-11-27,2015,3,Gemeinde,30,Andelfingen,16,95,16.84
+2025-11-27,2015,3,Gemeinde,31,Henggart,17,94,18.09
+2025-11-27,2015,3,Gemeinde,32,Humlikon,NULL,32,NULL
+2025-11-27,2015,3,Gemeinde,33,Kleinandelfingen,14,98,14.29
+2025-11-27,2015,3,Gemeinde,34,Laufen-Uhwiesen,1,62,1.61
+2025-11-27,2015,3,Gemeinde,35,Marthalen,14,119,11.76
+2025-11-27,2015,3,Gemeinde,36,Oberstammheim,NULL,49,NULL
+2025-11-27,2015,3,Gemeinde,37,Ossingen,6,59,10.16
+2025-11-27,2015,3,Gemeinde,38,Rheinau,10,71,14.09
+2025-11-27,2015,3,Gemeinde,39,Thalheim an der Thur,NULL,36,NULL
+2025-11-27,2015,3,Gemeinde,40,Trüllikon,NULL,33,NULL
+2025-11-27,2015,3,Gemeinde,41,Truttikon,NULL,23,NULL
+2025-11-27,2015,3,Gemeinde,42,Unterstammheim,11,52,21.15
+2025-11-27,2015,3,Gemeinde,43,Volken,NULL,12,NULL
+2025-11-27,2015,3,Gemeinde,44,Waltalingen,NULL,41,NULL
+2025-11-27,2015,3,Gemeinde,51,Bachenbülach,22,173,12.72
+2025-11-27,2015,3,Gemeinde,52,Bassersdorf,64,466,13.73
+2025-11-27,2015,3,Gemeinde,53,Bülach,127,803,15.81
+2025-11-27,2015,3,Gemeinde,54,Dietlikon,20,273,7.33
+2025-11-27,2015,3,Gemeinde,55,Eglisau,39,199,19.60
+2025-11-27,2015,3,Gemeinde,56,Embrach,45,411,10.95
+2025-11-27,2015,3,Gemeinde,57,Freienstein-Teufen,14,106,13.20
+2025-11-27,2015,3,Gemeinde,58,Glattfelden,35,230,15.21
+2025-11-27,2015,3,Gemeinde,59,Hochfelden,17,94,18.09
+2025-11-27,2015,3,Gemeinde,60,Höri,7,148,4.73
+2025-11-27,2015,3,Gemeinde,61,Hüntwangen,NULL,47,NULL
+2025-11-27,2015,3,Gemeinde,62,Kloten,68,719,9.45
+2025-11-27,2015,3,Gemeinde,63,Lufingen,9,76,11.84
+2025-11-27,2015,3,Gemeinde,64,Nürensdorf,50,225,22.22
+2025-11-27,2015,3,Gemeinde,65,Oberembrach,NULL,46,NULL
+2025-11-27,2015,3,Gemeinde,66,Opfikon,48,593,8.09
+2025-11-27,2015,3,Gemeinde,67,Rafz,35,219,15.98
+2025-11-27,2015,3,Gemeinde,68,Rorbas,14,141,9.93
+2025-11-27,2015,3,Gemeinde,69,Wallisellen,80,537,14.90
+2025-11-27,2015,3,Gemeinde,70,Wasterkingen,NULL,22,NULL
+2025-11-27,2015,3,Gemeinde,71,Wil (ZH),15,61,24.59
+2025-11-27,2015,3,Gemeinde,72,Winkel,36,164,21.95
+2025-11-27,2015,3,Gemeinde,81,Bachs,NULL,19,NULL
+2025-11-27,2015,3,Gemeinde,82,Boppelsen,10,51,19.61
+2025-11-27,2015,3,Gemeinde,83,Buchs (ZH),29,282,10.28
+2025-11-27,2015,3,Gemeinde,84,Dällikon,11,178,6.18
+2025-11-27,2015,3,Gemeinde,85,Dänikon,9,86,10.47
+2025-11-27,2015,3,Gemeinde,86,Dielsdorf,19,241,7.88
+2025-11-27,2015,3,Gemeinde,87,Hüttikon,NULL,26,NULL
+2025-11-27,2015,3,Gemeinde,88,Neerach,18,107,16.82
+2025-11-27,2015,3,Gemeinde,89,Niederglatt,25,236,10.59
+2025-11-27,2015,3,Gemeinde,90,Niederhasli,48,447,10.74
+2025-11-27,2015,3,Gemeinde,91,Niederweningen,26,149,17.45
+2025-11-27,2015,3,Gemeinde,92,Oberglatt,23,307,7.49
+2025-11-27,2015,3,Gemeinde,93,Oberweningen,13,87,14.94
+2025-11-27,2015,3,Gemeinde,94,Otelfingen,20,110,18.18
+2025-11-27,2015,3,Gemeinde,95,Regensberg,NULL,7,NULL
+2025-11-27,2015,3,Gemeinde,96,Regensdorf,57,732,7.78
+2025-11-27,2015,3,Gemeinde,97,Rümlang,31,319,9.71
+2025-11-27,2015,3,Gemeinde,98,Schleinikon,6,52,11.54
+2025-11-27,2015,3,Gemeinde,99,Schöfflisdorf,8,69,11.59
+2025-11-27,2015,3,Gemeinde,100,Stadel,11,89,12.36
+2025-11-27,2015,3,Gemeinde,101,Steinmaur,16,138,11.59
+2025-11-27,2015,3,Gemeinde,102,Weiach,5,59,8.47
+2025-11-27,2015,3,Gemeinde,111,Bäretswil,28,227,12.33
+2025-11-27,2015,3,Gemeinde,112,Bubikon,63,298,21.14
+2025-11-27,2015,3,Gemeinde,113,Dürnten,54,369,14.63
+2025-11-27,2015,3,Gemeinde,114,Fischenthal,6,119,5.04
+2025-11-27,2015,3,Gemeinde,115,Gossau (ZH),87,453,19.20
+2025-11-27,2015,3,Gemeinde,116,Grüningen,25,136,18.38
+2025-11-27,2015,3,Gemeinde,117,Hinwil,77,497,15.49
+2025-11-27,2015,3,Gemeinde,118,Rüti (ZH),85,547,15.54
+2025-11-27,2015,3,Gemeinde,119,Seegräben,16,52,30.77
+2025-11-27,2015,3,Gemeinde,120,Wald (ZH),52,435,11.95
+2025-11-27,2015,3,Gemeinde,121,Wetzikon (ZH),161,1065,15.12
+2025-11-27,2015,3,Gemeinde,131,Adliswil,115,643,17.88
+2025-11-27,2015,3,Gemeinde,132,Hirzel,17,106,16.04
+2025-11-27,2015,3,Gemeinde,133,Horgen,125,705,17.73
+2025-11-27,2015,3,Gemeinde,134,Hütten,6,60,10.00
+2025-11-27,2015,3,Gemeinde,135,Kilchberg (ZH),90,231,38.96
+2025-11-27,2015,3,Gemeinde,136,Langnau am Albis,65,296,21.96
+2025-11-27,2015,3,Gemeinde,137,Oberrieden,65,193,33.68
+2025-11-27,2015,3,Gemeinde,138,Richterswil,107,571,18.74
+2025-11-27,2015,3,Gemeinde,139,Rüschlikon,58,205,28.29
+2025-11-27,2015,3,Gemeinde,140,Schönenberg (ZH),10,98,10.20
+2025-11-27,2015,3,Gemeinde,141,Thalwil,163,554,29.42
+2025-11-27,2015,3,Gemeinde,142,Wädenswil,185,857,21.59
+2025-11-27,2015,3,Gemeinde,151,Erlenbach (ZH),104,209,49.76
+2025-11-27,2015,3,Gemeinde,152,Herrliberg,105,260,40.39
+2025-11-27,2015,3,Gemeinde,153,Hombrechtikon,64,357,17.93
+2025-11-27,2015,3,Gemeinde,154,Küsnacht (ZH),205,499,41.08
+2025-11-27,2015,3,Gemeinde,155,Männedorf,122,411,29.69
+2025-11-27,2015,3,Gemeinde,156,Meilen,177,491,36.05
+2025-11-27,2015,3,Gemeinde,157,Oetwil am See,22,216,10.18
+2025-11-27,2015,3,Gemeinde,158,Stäfa,157,574,27.35
+2025-11-27,2015,3,Gemeinde,159,Uetikon am See,90,300,30.00
+2025-11-27,2015,3,Gemeinde,160,Zumikon,73,200,36.50
+2025-11-27,2015,3,Gemeinde,161,Zollikon,175,396,44.20
+2025-11-27,2015,3,Gemeinde,172,Fehraltorf,46,264,17.43
+2025-11-27,2015,3,Gemeinde,173,Hittnau,20,198,10.10
+2025-11-27,2015,3,Gemeinde,174,Illnau-Effretikon,87,617,14.10
+2025-11-27,2015,3,Gemeinde,175,Kyburg,NULL,17,NULL
+2025-11-27,2015,3,Gemeinde,176,Lindau,24,249,9.63
+2025-11-27,2015,3,Gemeinde,177,Pfäffikon,73,430,16.98
+2025-11-27,2015,3,Gemeinde,178,Russikon,42,171,24.56
+2025-11-27,2015,3,Gemeinde,180,Weisslingen,34,143,23.78
+2025-11-27,2015,3,Gemeinde,181,Wila,16,95,16.84
+2025-11-27,2015,3,Gemeinde,182,Wildberg,NULL,38,NULL
+2025-11-27,2015,3,Gemeinde,191,Dübendorf,111,906,12.25
+2025-11-27,2015,3,Gemeinde,192,Egg,108,401,26.94
+2025-11-27,2015,3,Gemeinde,193,Fällanden,67,295,22.71
+2025-11-27,2015,3,Gemeinde,194,Greifensee,74,230,32.17
+2025-11-27,2015,3,Gemeinde,195,Maur,124,415,29.88
+2025-11-27,2015,3,Gemeinde,196,Mönchaltorf,37,129,28.69
+2025-11-27,2015,3,Gemeinde,197,Schwerzenbach,38,203,18.72
+2025-11-27,2015,3,Gemeinde,198,Uster,262,1389,18.86
+2025-11-27,2015,3,Gemeinde,199,Volketswil,84,824,10.20
+2025-11-27,2015,3,Gemeinde,200,Wangen-Brüttisellen,54,378,14.29
+2025-11-27,2015,3,Gemeinde,211,Altikon,NULL,28,NULL
+2025-11-27,2015,3,Gemeinde,213,Brütten,25,112,22.32
+2025-11-27,2015,3,Gemeinde,214,Dägerlen,NULL,47,NULL
+2025-11-27,2015,3,Gemeinde,215,Dättlikon,NULL,34,NULL
+2025-11-27,2015,3,Gemeinde,216,Dinhard,13,62,20.97
+2025-11-27,2015,3,Gemeinde,217,Elgg,54,199,27.14
+2025-11-27,2015,3,Gemeinde,218,Ellikon an der Thur,NULL,42,NULL
+2025-11-27,2015,3,Gemeinde,219,Elsau,34,163,20.86
+2025-11-27,2015,3,Gemeinde,220,Hagenbuch,6,52,11.54
+2025-11-27,2015,3,Gemeinde,221,Hettlingen,66,176,37.50
+2025-11-27,2015,3,Gemeinde,222,Hofstetten (ZH),NULL,26,NULL
+2025-11-27,2015,3,Gemeinde,223,Neftenbach,47,263,17.87
+2025-11-27,2015,3,Gemeinde,224,Pfungen,18,154,11.69
+2025-11-27,2015,3,Gemeinde,225,Rickenbach (ZH),13,104,12.50
+2025-11-27,2015,3,Gemeinde,226,Schlatt (ZH),NULL,29,NULL
+2025-11-27,2015,3,Gemeinde,227,Seuzach,50,325,15.39
+2025-11-27,2015,3,Gemeinde,228,Turbenthal,22,220,10.00
+2025-11-27,2015,3,Gemeinde,230,Winterthur,826,4228,19.53
+2025-11-27,2015,3,Gemeinde,231,Zell (ZH),19,223,8.52
+2025-11-27,2015,3,Gemeinde,241,Aesch (ZH),NULL,43,NULL
+2025-11-27,2015,3,Gemeinde,242,Birmensdorf (ZH),49,213,23.01
+2025-11-27,2015,3,Gemeinde,243,Dietikon,92,1117,8.24
+2025-11-27,2015,3,Gemeinde,244,Geroldswil,26,196,13.27
+2025-11-27,2015,3,Gemeinde,245,Oberengstringen,29,257,11.28
+2025-11-27,2015,3,Gemeinde,246,Oetwil an der Limmat,23,92,25.00
+2025-11-27,2015,3,Gemeinde,247,Schlieren,66,723,9.13
+2025-11-27,2015,3,Gemeinde,248,Uitikon,47,133,35.34
+2025-11-27,2015,3,Gemeinde,249,Unterengstringen,19,124,15.33
+2025-11-27,2015,3,Gemeinde,250,Urdorf,70,385,18.18
+2025-11-27,2015,3,Gemeinde,251,Weiningen (ZH),32,203,15.76
+2025-11-27,2015,3,Gemeinde,261,Zürich,2351,11493,20.45
+2025-11-27,2015,3,Gemeinde,291,Andelfingen,27,146,0.18
+2025-11-27,2015,3,Gemeinde,292,Stammheim,27,142,0.19
+2025-11-27,2015,3,Gemeinde,293,Wädenswil,201,1015,0.20
+2025-11-27,2015,3,Gemeinde,294,Elgg,61,225,0.27
+2025-11-27,2015,3,Gemeinde,295,Horgen,142,811,0.18
+2025-11-27,2015,3,Gemeinde,296,Illnau-Effretikon,88,634,0.13
+2025-11-27,2015,3,Gemeinde,297,Bauma,25,285,8.77
+2025-11-27,2015,3,Gemeinde,298,Wiesendangen,52,310,16.78
+2025-11-27,2015,6,Raumplanungsregion,101,Zürich,30563,149409,20.45
+2025-11-27,2015,6,Raumplanungsregion,102,Glattal,913,6383,14.31
+2025-11-27,2015,6,Raumplanungsregion,103,Furttal,138,1465,9.42
+2025-11-27,2015,6,Raumplanungsregion,104,Limmattal,459,3486,13.17
+2025-11-27,2015,6,Raumplanungsregion,105,Knonaueramt,486,2298,21.14
+2025-11-27,2015,6,Raumplanungsregion,106,Zimmerberg,1006,4519,22.26
+2025-11-27,2015,6,Raumplanungsregion,107,Pfannenstiel,1402,4314,32.50
+2025-11-27,2015,6,Raumplanungsregion,108,Oberland,1181,7197,16.41
+2025-11-27,2015,6,Raumplanungsregion,109,Winterthur u.U.,7211,37419,19.27
+2025-11-27,2015,6,Raumplanungsregion,110,Weinland,191,1433,13.33
+2025-11-27,2015,6,Raumplanungsregion,111,Unterland,651,4947,13.16
+2025-11-27,2016,1,Kanton,1,Kanton Zürich,10477,55566,18.85
+2025-11-27,2016,2,Bezirk,101,Bezirk Affoltern,505,2282,22.13
+2025-11-27,2016,2,Bezirk,102,Bezirk Andelfingen,194,1434,13.52
+2025-11-27,2016,2,Bezirk,103,Bezirk Bülach,820,5759,14.23
+2025-11-27,2016,2,Bezirk,104,Bezirk Dielsdorf,452,3841,11.77
+2025-11-27,2016,2,Bezirk,105,Bezirk Hinwil,647,4213,15.36
+2025-11-27,2016,2,Bezirk,106,Bezirk Horgen,1029,4581,22.46
+2025-11-27,2016,2,Bezirk,107,Bezirk Meilen,1331,3965,33.57
+2025-11-27,2016,2,Bezirk,108,Bezirk Pfäffikon,346,2494,13.87
+2025-11-27,2016,2,Bezirk,109,Bezirk Uster,1023,5271,19.41
+2025-11-27,2016,2,Bezirk,110,Bezirk Winterthur,1281,6769,18.93
+2025-11-27,2016,2,Bezirk,111,Bezirk Dietikon,464,3402,13.64
+2025-11-27,2016,2,Bezirk,112,Bezirk Zürich,2385,11555,20.64
+2025-11-27,2016,3,Gemeinde,1,Aeugst am Albis,29,98,29.59
+2025-11-27,2016,3,Gemeinde,2,Affoltern am Albis,85,552,15.40
+2025-11-27,2016,3,Gemeinde,3,Bonstetten,78,219,35.62
+2025-11-27,2016,3,Gemeinde,4,Hausen am Albis,31,145,21.38
+2025-11-27,2016,3,Gemeinde,5,Hedingen,51,178,28.65
+2025-11-27,2016,3,Gemeinde,6,Kappel am Albis,NULL,45,NULL
+2025-11-27,2016,3,Gemeinde,7,Knonau,8,104,7.69
+2025-11-27,2016,3,Gemeinde,8,Maschwanden,NULL,36,NULL
+2025-11-27,2016,3,Gemeinde,9,Mettmenstetten,41,226,18.14
+2025-11-27,2016,3,Gemeinde,10,Obfelden,46,232,19.83
+2025-11-27,2016,3,Gemeinde,11,Ottenbach,20,120,16.66
+2025-11-27,2016,3,Gemeinde,12,Rifferswil,NULL,37,NULL
+2025-11-27,2016,3,Gemeinde,13,Stallikon,43,130,33.08
+2025-11-27,2016,3,Gemeinde,14,Wettswil am Albis,54,160,33.76
+2025-11-27,2016,3,Gemeinde,21,Adlikon,NULL,21,NULL
+2025-11-27,2016,3,Gemeinde,22,Benken (ZH),NULL,29,NULL
+2025-11-27,2016,3,Gemeinde,23,Berg am Irchel,NULL,28,NULL
+2025-11-27,2016,3,Gemeinde,24,Buch am Irchel,NULL,38,NULL
+2025-11-27,2016,3,Gemeinde,25,Dachsen,16,110,14.55
+2025-11-27,2016,3,Gemeinde,26,Dorf,NULL,43,NULL
+2025-11-27,2016,3,Gemeinde,27,Feuerthalen,1,128,0.78
+2025-11-27,2016,3,Gemeinde,28,Flaach,11,67,16.42
+2025-11-27,2016,3,Gemeinde,29,Flurlingen,5,74,6.76
+2025-11-27,2016,3,Gemeinde,30,Andelfingen,17,92,18.48
+2025-11-27,2016,3,Gemeinde,31,Henggart,21,113,18.58
+2025-11-27,2016,3,Gemeinde,32,Humlikon,NULL,33,NULL
+2025-11-27,2016,3,Gemeinde,33,Kleinandelfingen,18,94,19.15
+2025-11-27,2016,3,Gemeinde,34,Laufen-Uhwiesen,2,70,2.86
+2025-11-27,2016,3,Gemeinde,35,Marthalen,12,106,11.32
+2025-11-27,2016,3,Gemeinde,36,Oberstammheim,NULL,50,NULL
+2025-11-27,2016,3,Gemeinde,37,Ossingen,11,67,16.42
+2025-11-27,2016,3,Gemeinde,38,Rheinau,12,69,17.39
+2025-11-27,2016,3,Gemeinde,39,Thalheim an der Thur,NULL,40,NULL
+2025-11-27,2016,3,Gemeinde,40,Trüllikon,NULL,32,NULL
+2025-11-27,2016,3,Gemeinde,41,Truttikon,NULL,27,NULL
+2025-11-27,2016,3,Gemeinde,42,Unterstammheim,11,56,19.64
+2025-11-27,2016,3,Gemeinde,43,Volken,NULL,9,NULL
+2025-11-27,2016,3,Gemeinde,44,Waltalingen,NULL,38,NULL
+2025-11-27,2016,3,Gemeinde,51,Bachenbülach,30,170,17.65
+2025-11-27,2016,3,Gemeinde,52,Bassersdorf,71,494,14.37
+2025-11-27,2016,3,Gemeinde,53,Bülach,133,798,16.67
+2025-11-27,2016,3,Gemeinde,54,Dietlikon,29,282,10.28
+2025-11-27,2016,3,Gemeinde,55,Eglisau,49,223,21.98
+2025-11-27,2016,3,Gemeinde,56,Embrach,47,399,11.78
+2025-11-27,2016,3,Gemeinde,57,Freienstein-Teufen,17,111,15.31
+2025-11-27,2016,3,Gemeinde,58,Glattfelden,38,233,16.31
+2025-11-27,2016,3,Gemeinde,59,Hochfelden,18,93,19.35
+2025-11-27,2016,3,Gemeinde,60,Höri,5,146,3.42
+2025-11-27,2016,3,Gemeinde,61,Hüntwangen,NULL,46,NULL
+2025-11-27,2016,3,Gemeinde,62,Kloten,74,691,10.71
+2025-11-27,2016,3,Gemeinde,63,Lufingen,12,82,14.63
+2025-11-27,2016,3,Gemeinde,64,Nürensdorf,55,227,24.23
+2025-11-27,2016,3,Gemeinde,65,Oberembrach,NULL,48,NULL
+2025-11-27,2016,3,Gemeinde,66,Opfikon,44,575,7.65
+2025-11-27,2016,3,Gemeinde,67,Rafz,36,227,15.86
+2025-11-27,2016,3,Gemeinde,68,Rorbas,15,129,11.63
+2025-11-27,2016,3,Gemeinde,69,Wallisellen,78,551,14.16
+2025-11-27,2016,3,Gemeinde,70,Wasterkingen,NULL,22,NULL
+2025-11-27,2016,3,Gemeinde,71,Wil (ZH),16,59,27.12
+2025-11-27,2016,3,Gemeinde,72,Winkel,38,153,24.84
+2025-11-27,2016,3,Gemeinde,81,Bachs,NULL,20,NULL
+2025-11-27,2016,3,Gemeinde,82,Boppelsen,11,55,20.00
+2025-11-27,2016,3,Gemeinde,83,Buchs (ZH),37,287,12.90
+2025-11-27,2016,3,Gemeinde,84,Dällikon,12,166,7.23
+2025-11-27,2016,3,Gemeinde,85,Dänikon,8,82,9.76
+2025-11-27,2016,3,Gemeinde,86,Dielsdorf,17,246,6.91
+2025-11-27,2016,3,Gemeinde,87,Hüttikon,NULL,24,NULL
+2025-11-27,2016,3,Gemeinde,88,Neerach,21,110,19.09
+2025-11-27,2016,3,Gemeinde,89,Niederglatt,26,233,11.16
+2025-11-27,2016,3,Gemeinde,90,Niederhasli,49,474,10.34
+2025-11-27,2016,3,Gemeinde,91,Niederweningen,32,164,19.51
+2025-11-27,2016,3,Gemeinde,92,Oberglatt,27,329,8.20
+2025-11-27,2016,3,Gemeinde,93,Oberweningen,20,89,22.47
+2025-11-27,2016,3,Gemeinde,94,Otelfingen,21,119,17.65
+2025-11-27,2016,3,Gemeinde,95,Regensberg,NULL,9,NULL
+2025-11-27,2016,3,Gemeinde,96,Regensdorf,74,727,10.18
+2025-11-27,2016,3,Gemeinde,97,Rümlang,31,316,9.81
+2025-11-27,2016,3,Gemeinde,98,Schleinikon,9,53,16.98
+2025-11-27,2016,3,Gemeinde,99,Schöfflisdorf,11,63,17.46
+2025-11-27,2016,3,Gemeinde,100,Stadel,15,94,15.96
+2025-11-27,2016,3,Gemeinde,101,Steinmaur,19,123,15.44
+2025-11-27,2016,3,Gemeinde,102,Weiach,6,58,10.34
+2025-11-27,2016,3,Gemeinde,111,Bäretswil,34,236,14.41
+2025-11-27,2016,3,Gemeinde,112,Bubikon,62,309,20.06
+2025-11-27,2016,3,Gemeinde,113,Dürnten,53,362,14.64
+2025-11-27,2016,3,Gemeinde,114,Fischenthal,4,106,3.77
+2025-11-27,2016,3,Gemeinde,115,Gossau (ZH),88,454,19.38
+2025-11-27,2016,3,Gemeinde,116,Grüningen,23,137,16.79
+2025-11-27,2016,3,Gemeinde,117,Hinwil,74,506,14.62
+2025-11-27,2016,3,Gemeinde,118,Rüti (ZH),76,557,13.65
+2025-11-27,2016,3,Gemeinde,119,Seegräben,14,56,25.00
+2025-11-27,2016,3,Gemeinde,120,Wald (ZH),46,434,10.60
+2025-11-27,2016,3,Gemeinde,121,Wetzikon (ZH),173,1056,16.39
+2025-11-27,2016,3,Gemeinde,131,Adliswil,122,636,19.18
+2025-11-27,2016,3,Gemeinde,132,Hirzel,17,107,15.89
+2025-11-27,2016,3,Gemeinde,133,Horgen,140,715,19.58
+2025-11-27,2016,3,Gemeinde,134,Hütten,7,62,11.29
+2025-11-27,2016,3,Gemeinde,135,Kilchberg (ZH),96,247,38.87
+2025-11-27,2016,3,Gemeinde,136,Langnau am Albis,58,296,19.59
+2025-11-27,2016,3,Gemeinde,137,Oberrieden,64,193,33.16
+2025-11-27,2016,3,Gemeinde,138,Richterswil,100,578,17.31
+2025-11-27,2016,3,Gemeinde,139,Rüschlikon,60,197,30.45
+2025-11-27,2016,3,Gemeinde,140,Schönenberg (ZH),13,101,12.87
+2025-11-27,2016,3,Gemeinde,141,Thalwil,168,570,29.47
+2025-11-27,2016,3,Gemeinde,142,Wädenswil,184,879,20.94
+2025-11-27,2016,3,Gemeinde,151,Erlenbach (ZH),106,226,46.91
+2025-11-27,2016,3,Gemeinde,152,Herrliberg,107,254,42.12
+2025-11-27,2016,3,Gemeinde,153,Hombrechtikon,67,361,18.56
+2025-11-27,2016,3,Gemeinde,154,Küsnacht (ZH),208,483,43.07
+2025-11-27,2016,3,Gemeinde,155,Männedorf,128,431,29.70
+2025-11-27,2016,3,Gemeinde,156,Meilen,191,510,37.45
+2025-11-27,2016,3,Gemeinde,157,Oetwil am See,23,216,10.65
+2025-11-27,2016,3,Gemeinde,158,Stäfa,163,576,28.30
+2025-11-27,2016,3,Gemeinde,159,Uetikon am See,96,304,31.58
+2025-11-27,2016,3,Gemeinde,160,Zumikon,68,192,35.42
+2025-11-27,2016,3,Gemeinde,161,Zollikon,174,412,42.23
+2025-11-27,2016,3,Gemeinde,172,Fehraltorf,37,259,14.29
+2025-11-27,2016,3,Gemeinde,173,Hittnau,17,181,9.39
+2025-11-27,2016,3,Gemeinde,176,Lindau,25,244,10.25
+2025-11-27,2016,3,Gemeinde,177,Pfäffikon,71,439,16.18
+2025-11-27,2016,3,Gemeinde,178,Russikon,35,163,21.47
+2025-11-27,2016,3,Gemeinde,180,Weisslingen,29,146,19.86
+2025-11-27,2016,3,Gemeinde,181,Wila,10,105,9.52
+2025-11-27,2016,3,Gemeinde,182,Wildberg,NULL,48,NULL
+2025-11-27,2016,3,Gemeinde,191,Dübendorf,122,943,12.93
+2025-11-27,2016,3,Gemeinde,192,Egg,111,408,27.21
+2025-11-27,2016,3,Gemeinde,193,Fällanden,71,313,22.68
+2025-11-27,2016,3,Gemeinde,194,Greifensee,77,244,31.56
+2025-11-27,2016,3,Gemeinde,195,Maur,137,442,31.00
+2025-11-27,2016,3,Gemeinde,196,Mönchaltorf,31,129,24.04
+2025-11-27,2016,3,Gemeinde,197,Schwerzenbach,39,187,20.86
+2025-11-27,2016,3,Gemeinde,198,Uster,284,1394,20.38
+2025-11-27,2016,3,Gemeinde,199,Volketswil,93,828,11.23
+2025-11-27,2016,3,Gemeinde,200,Wangen-Brüttisellen,58,383,15.14
+2025-11-27,2016,3,Gemeinde,211,Altikon,NULL,28,NULL
+2025-11-27,2016,3,Gemeinde,213,Brütten,23,105,21.90
+2025-11-27,2016,3,Gemeinde,214,Dägerlen,NULL,44,NULL
+2025-11-27,2016,3,Gemeinde,215,Dättlikon,NULL,27,NULL
+2025-11-27,2016,3,Gemeinde,216,Dinhard,12,61,19.67
+2025-11-27,2016,3,Gemeinde,217,Elgg,48,198,24.24
+2025-11-27,2016,3,Gemeinde,218,Ellikon an der Thur,NULL,40,NULL
+2025-11-27,2016,3,Gemeinde,219,Elsau,32,163,19.63
+2025-11-27,2016,3,Gemeinde,220,Hagenbuch,5,57,8.77
+2025-11-27,2016,3,Gemeinde,221,Hettlingen,70,175,40.00
+2025-11-27,2016,3,Gemeinde,222,Hofstetten (ZH),NULL,30,NULL
+2025-11-27,2016,3,Gemeinde,223,Neftenbach,44,266,16.54
+2025-11-27,2016,3,Gemeinde,224,Pfungen,17,157,10.83
+2025-11-27,2016,3,Gemeinde,225,Rickenbach (ZH),18,112,16.07
+2025-11-27,2016,3,Gemeinde,226,Schlatt (ZH),NULL,30,NULL
+2025-11-27,2016,3,Gemeinde,227,Seuzach,53,321,16.51
+2025-11-27,2016,3,Gemeinde,228,Turbenthal,20,232,8.62
+2025-11-27,2016,3,Gemeinde,230,Winterthur,818,4198,19.49
+2025-11-27,2016,3,Gemeinde,231,Zell (ZH),22,214,10.28
+2025-11-27,2016,3,Gemeinde,241,Aesch (ZH),NULL,37,NULL
+2025-11-27,2016,3,Gemeinde,242,Birmensdorf (ZH),45,207,21.74
+2025-11-27,2016,3,Gemeinde,243,Dietikon,96,1098,8.74
+2025-11-27,2016,3,Gemeinde,244,Geroldswil,22,173,12.72
+2025-11-27,2016,3,Gemeinde,245,Oberengstringen,32,247,12.96
+2025-11-27,2016,3,Gemeinde,246,Oetwil an der Limmat,23,90,25.55
+2025-11-27,2016,3,Gemeinde,247,Schlieren,62,697,8.89
+2025-11-27,2016,3,Gemeinde,248,Uitikon,49,129,37.98
+2025-11-27,2016,3,Gemeinde,249,Unterengstringen,24,128,18.75
+2025-11-27,2016,3,Gemeinde,250,Urdorf,72,389,18.51
+2025-11-27,2016,3,Gemeinde,251,Weiningen (ZH),29,207,14.01
+2025-11-27,2016,3,Gemeinde,261,Zürich,2385,11555,20.64
+2025-11-27,2016,3,Gemeinde,291,Andelfingen,30,146,0.21
+2025-11-27,2016,3,Gemeinde,292,Stammheim,21,144,0.15
+2025-11-27,2016,3,Gemeinde,293,Wädenswil,204,1042,0.20
+2025-11-27,2016,3,Gemeinde,294,Elgg,56,228,0.24
+2025-11-27,2016,3,Gemeinde,295,Horgen,157,822,0.19
+2025-11-27,2016,3,Gemeinde,296,Illnau-Effretikon,89,630,14.12
+2025-11-27,2016,3,Gemeinde,297,Bauma,24,279,8.61
+2025-11-27,2016,3,Gemeinde,298,Wiesendangen,65,311,20.90
+2025-11-27,2016,6,Raumplanungsregion,101,Zürich,31005,150215,20.64
+2025-11-27,2016,6,Raumplanungsregion,102,Glattal,979,6476,15.12
+2025-11-27,2016,6,Raumplanungsregion,103,Furttal,164,1460,11.23
+2025-11-27,2016,6,Raumplanungsregion,104,Limmattal,464,3402,13.64
+2025-11-27,2016,6,Raumplanungsregion,105,Knonaueramt,505,2282,22.13
+2025-11-27,2016,6,Raumplanungsregion,106,Zimmerberg,1029,4581,22.46
+2025-11-27,2016,6,Raumplanungsregion,107,Pfannenstiel,1442,4373,32.98
+2025-11-27,2016,6,Raumplanungsregion,108,Oberland,1165,7210,16.16
+2025-11-27,2016,6,Raumplanungsregion,109,Winterthur u.U.,7150,37175,19.23
+2025-11-27,2016,6,Raumplanungsregion,110,Weinland,194,1434,13.52
+2025-11-27,2016,6,Raumplanungsregion,111,Unterland,726,5004,14.51
+2025-11-27,2017,1,Kanton,1,Kanton Zürich,10488,55876,18.77
+2025-11-27,2017,2,Bezirk,101,Bezirk Affoltern,491,2273,21.60
+2025-11-27,2017,2,Bezirk,102,Bezirk Andelfingen,188,1419,13.25
+2025-11-27,2017,2,Bezirk,103,Bezirk Bülach,813,5778,14.07
+2025-11-27,2017,2,Bezirk,104,Bezirk Dielsdorf,465,3918,11.87
+2025-11-27,2017,2,Bezirk,105,Bezirk Hinwil,644,4195,15.35
+2025-11-27,2017,2,Bezirk,106,Bezirk Horgen,1015,4697,21.61
+2025-11-27,2017,2,Bezirk,107,Bezirk Meilen,1336,4063,32.88
+2025-11-27,2017,2,Bezirk,108,Bezirk Pfäffikon,371,2503,14.82
+2025-11-27,2017,2,Bezirk,109,Bezirk Uster,1078,5260,20.49
+2025-11-27,2017,2,Bezirk,110,Bezirk Winterthur,1261,6744,18.70
+2025-11-27,2017,2,Bezirk,111,Bezirk Dietikon,437,3411,12.82
+2025-11-27,2017,2,Bezirk,112,Bezirk Zürich,2389,11615,20.57
+2025-11-27,2017,3,Gemeinde,1,Aeugst am Albis,31,90,34.44
+2025-11-27,2017,3,Gemeinde,2,Affoltern am Albis,79,525,15.04
+2025-11-27,2017,3,Gemeinde,3,Bonstetten,73,223,32.74
+2025-11-27,2017,3,Gemeinde,4,Hausen am Albis,30,171,17.54
+2025-11-27,2017,3,Gemeinde,5,Hedingen,50,167,29.94
+2025-11-27,2017,3,Gemeinde,6,Kappel am Albis,3,52,5.77
+2025-11-27,2017,3,Gemeinde,7,Knonau,8,93,8.60
+2025-11-27,2017,3,Gemeinde,8,Maschwanden,NULL,33,NULL
+2025-11-27,2017,3,Gemeinde,9,Mettmenstetten,44,219,20.09
+2025-11-27,2017,3,Gemeinde,10,Obfelden,40,233,17.17
+2025-11-27,2017,3,Gemeinde,11,Ottenbach,19,120,15.83
+2025-11-27,2017,3,Gemeinde,12,Rifferswil,NULL,38,NULL
+2025-11-27,2017,3,Gemeinde,13,Stallikon,40,136,29.42
+2025-11-27,2017,3,Gemeinde,14,Wettswil am Albis,56,173,32.37
+2025-11-27,2017,3,Gemeinde,21,Adlikon,NULL,17,NULL
+2025-11-27,2017,3,Gemeinde,22,Benken (ZH),NULL,32,NULL
+2025-11-27,2017,3,Gemeinde,23,Berg am Irchel,NULL,25,NULL
+2025-11-27,2017,3,Gemeinde,24,Buch am Irchel,NULL,32,NULL
+2025-11-27,2017,3,Gemeinde,25,Dachsen,13,102,12.74
+2025-11-27,2017,3,Gemeinde,26,Dorf,NULL,37,NULL
+2025-11-27,2017,3,Gemeinde,27,Feuerthalen,1,126,0.79
+2025-11-27,2017,3,Gemeinde,28,Flaach,9,63,14.28
+2025-11-27,2017,3,Gemeinde,29,Flurlingen,5,71,7.04
+2025-11-27,2017,3,Gemeinde,30,Andelfingen,13,85,15.29
+2025-11-27,2017,3,Gemeinde,31,Henggart,22,125,17.60
+2025-11-27,2017,3,Gemeinde,32,Humlikon,NULL,32,NULL
+2025-11-27,2017,3,Gemeinde,33,Kleinandelfingen,19,99,19.19
+2025-11-27,2017,3,Gemeinde,34,Laufen-Uhwiesen,3,71,4.23
+2025-11-27,2017,3,Gemeinde,35,Marthalen,12,102,11.76
+2025-11-27,2017,3,Gemeinde,36,Oberstammheim,NULL,43,NULL
+2025-11-27,2017,3,Gemeinde,37,Ossingen,12,77,15.59
+2025-11-27,2017,3,Gemeinde,38,Rheinau,13,65,20.00
+2025-11-27,2017,3,Gemeinde,39,Thalheim an der Thur,NULL,47,NULL
+2025-11-27,2017,3,Gemeinde,40,Trüllikon,NULL,32,NULL
+2025-11-27,2017,3,Gemeinde,41,Truttikon,NULL,29,NULL
+2025-11-27,2017,3,Gemeinde,42,Unterstammheim,7,58,12.07
+2025-11-27,2017,3,Gemeinde,43,Volken,NULL,10,NULL
+2025-11-27,2017,3,Gemeinde,44,Waltalingen,NULL,39,NULL
+2025-11-27,2017,3,Gemeinde,51,Bachenbülach,29,173,16.76
+2025-11-27,2017,3,Gemeinde,52,Bassersdorf,73,515,14.17
+2025-11-27,2017,3,Gemeinde,53,Bülach,125,804,15.55
+2025-11-27,2017,3,Gemeinde,54,Dietlikon,43,299,14.38
+2025-11-27,2017,3,Gemeinde,55,Eglisau,43,222,19.37
+2025-11-27,2017,3,Gemeinde,56,Embrach,52,383,13.57
+2025-11-27,2017,3,Gemeinde,57,Freienstein-Teufen,20,115,17.39
+2025-11-27,2017,3,Gemeinde,58,Glattfelden,36,226,15.92
+2025-11-27,2017,3,Gemeinde,59,Hochfelden,16,92,17.39
+2025-11-27,2017,3,Gemeinde,60,Höri,8,138,5.80
+2025-11-27,2017,3,Gemeinde,61,Hüntwangen,NULL,43,NULL
+2025-11-27,2017,3,Gemeinde,62,Kloten,69,720,9.59
+2025-11-27,2017,3,Gemeinde,63,Lufingen,14,85,16.47
+2025-11-27,2017,3,Gemeinde,64,Nürensdorf,47,231,20.35
+2025-11-27,2017,3,Gemeinde,65,Oberembrach,NULL,45,NULL
+2025-11-27,2017,3,Gemeinde,66,Opfikon,45,578,7.79
+2025-11-27,2017,3,Gemeinde,67,Rafz,40,224,17.86
+2025-11-27,2017,3,Gemeinde,68,Rorbas,13,123,10.57
+2025-11-27,2017,3,Gemeinde,69,Wallisellen,65,515,12.62
+2025-11-27,2017,3,Gemeinde,70,Wasterkingen,NULL,19,NULL
+2025-11-27,2017,3,Gemeinde,71,Wil (ZH),18,58,31.03
+2025-11-27,2017,3,Gemeinde,72,Winkel,41,170,24.12
+2025-11-27,2017,3,Gemeinde,81,Bachs,NULL,23,NULL
+2025-11-27,2017,3,Gemeinde,82,Boppelsen,14,55,25.45
+2025-11-27,2017,3,Gemeinde,83,Buchs (ZH),37,277,13.36
+2025-11-27,2017,3,Gemeinde,84,Dällikon,12,175,6.86
+2025-11-27,2017,3,Gemeinde,85,Dänikon,10,82,12.20
+2025-11-27,2017,3,Gemeinde,86,Dielsdorf,22,243,9.06
+2025-11-27,2017,3,Gemeinde,87,Hüttikon,NULL,24,NULL
+2025-11-27,2017,3,Gemeinde,88,Neerach,20,110,18.18
+2025-11-27,2017,3,Gemeinde,89,Niederglatt,25,240,10.42
+2025-11-27,2017,3,Gemeinde,90,Niederhasli,50,474,10.55
+2025-11-27,2017,3,Gemeinde,91,Niederweningen,36,171,21.05
+2025-11-27,2017,3,Gemeinde,92,Oberglatt,29,332,8.73
+2025-11-27,2017,3,Gemeinde,93,Oberweningen,15,103,14.56
+2025-11-27,2017,3,Gemeinde,94,Otelfingen,22,116,18.97
+2025-11-27,2017,3,Gemeinde,95,Regensberg,NULL,14,NULL
+2025-11-27,2017,3,Gemeinde,96,Regensdorf,74,766,9.66
+2025-11-27,2017,3,Gemeinde,97,Rümlang,30,317,9.46
+2025-11-27,2017,3,Gemeinde,98,Schleinikon,8,53,15.10
+2025-11-27,2017,3,Gemeinde,99,Schöfflisdorf,10,66,15.15
+2025-11-27,2017,3,Gemeinde,100,Stadel,15,96,15.62
+2025-11-27,2017,3,Gemeinde,101,Steinmaur,22,122,18.03
+2025-11-27,2017,3,Gemeinde,102,Weiach,5,59,8.47
+2025-11-27,2017,3,Gemeinde,111,Bäretswil,36,219,16.44
+2025-11-27,2017,3,Gemeinde,112,Bubikon,64,311,20.58
+2025-11-27,2017,3,Gemeinde,113,Dürnten,53,353,15.01
+2025-11-27,2017,3,Gemeinde,114,Fischenthal,3,112,2.68
+2025-11-27,2017,3,Gemeinde,115,Gossau (ZH),94,469,20.05
+2025-11-27,2017,3,Gemeinde,116,Grüningen,23,142,16.20
+2025-11-27,2017,3,Gemeinde,117,Hinwil,64,499,12.82
+2025-11-27,2017,3,Gemeinde,118,Rüti (ZH),74,531,13.94
+2025-11-27,2017,3,Gemeinde,119,Seegräben,16,55,29.09
+2025-11-27,2017,3,Gemeinde,120,Wald (ZH),43,417,10.31
+2025-11-27,2017,3,Gemeinde,121,Wetzikon (ZH),174,1087,16.01
+2025-11-27,2017,3,Gemeinde,131,Adliswil,123,634,19.40
+2025-11-27,2017,3,Gemeinde,132,Hirzel,16,104,15.38
+2025-11-27,2017,3,Gemeinde,133,Horgen,140,763,18.35
+2025-11-27,2017,3,Gemeinde,134,Hütten,6,56,10.71
+2025-11-27,2017,3,Gemeinde,135,Kilchberg (ZH),102,278,36.69
+2025-11-27,2017,3,Gemeinde,136,Langnau am Albis,67,306,21.89
+2025-11-27,2017,3,Gemeinde,137,Oberrieden,65,201,32.34
+2025-11-27,2017,3,Gemeinde,138,Richterswil,91,577,15.77
+2025-11-27,2017,3,Gemeinde,139,Rüschlikon,56,201,27.87
+2025-11-27,2017,3,Gemeinde,140,Schönenberg (ZH),13,103,12.62
+2025-11-27,2017,3,Gemeinde,141,Thalwil,166,596,27.85
+2025-11-27,2017,3,Gemeinde,142,Wädenswil,170,878,19.36
+2025-11-27,2017,3,Gemeinde,151,Erlenbach (ZH),107,243,44.03
+2025-11-27,2017,3,Gemeinde,152,Herrliberg,122,272,44.85
+2025-11-27,2017,3,Gemeinde,153,Hombrechtikon,71,352,20.17
+2025-11-27,2017,3,Gemeinde,154,Küsnacht (ZH),189,483,39.13
+2025-11-27,2017,3,Gemeinde,155,Männedorf,143,452,31.63
+2025-11-27,2017,3,Gemeinde,156,Meilen,180,535,33.64
+2025-11-27,2017,3,Gemeinde,157,Oetwil am See,27,213,12.68
+2025-11-27,2017,3,Gemeinde,158,Stäfa,175,595,29.41
+2025-11-27,2017,3,Gemeinde,159,Uetikon am See,85,312,27.24
+2025-11-27,2017,3,Gemeinde,160,Zumikon,73,192,38.02
+2025-11-27,2017,3,Gemeinde,161,Zollikon,164,414,39.62
+2025-11-27,2017,3,Gemeinde,172,Fehraltorf,31,241,12.86
+2025-11-27,2017,3,Gemeinde,173,Hittnau,16,176,9.09
+2025-11-27,2017,3,Gemeinde,176,Lindau,28,275,10.18
+2025-11-27,2017,3,Gemeinde,177,Pfäffikon,80,464,17.25
+2025-11-27,2017,3,Gemeinde,178,Russikon,35,151,23.18
+2025-11-27,2017,3,Gemeinde,180,Weisslingen,34,151,22.52
+2025-11-27,2017,3,Gemeinde,181,Wila,11,98,11.22
+2025-11-27,2017,3,Gemeinde,182,Wildberg,NULL,40,NULL
+2025-11-27,2017,3,Gemeinde,191,Dübendorf,138,969,14.24
+2025-11-27,2017,3,Gemeinde,192,Egg,108,406,26.60
+2025-11-27,2017,3,Gemeinde,193,Fällanden,76,310,24.52
+2025-11-27,2017,3,Gemeinde,194,Greifensee,78,231,33.77
+2025-11-27,2017,3,Gemeinde,195,Maur,155,439,35.31
+2025-11-27,2017,3,Gemeinde,196,Mönchaltorf,36,136,26.47
+2025-11-27,2017,3,Gemeinde,197,Schwerzenbach,40,185,21.62
+2025-11-27,2017,3,Gemeinde,198,Uster,291,1380,21.09
+2025-11-27,2017,3,Gemeinde,199,Volketswil,98,826,11.87
+2025-11-27,2017,3,Gemeinde,200,Wangen-Brüttisellen,58,378,15.34
+2025-11-27,2017,3,Gemeinde,211,Altikon,NULL,25,NULL
+2025-11-27,2017,3,Gemeinde,213,Brütten,24,92,26.09
+2025-11-27,2017,3,Gemeinde,214,Dägerlen,NULL,45,NULL
+2025-11-27,2017,3,Gemeinde,215,Dättlikon,NULL,24,NULL
+2025-11-27,2017,3,Gemeinde,216,Dinhard,10,62,16.13
+2025-11-27,2017,3,Gemeinde,217,Elgg,43,196,21.94
+2025-11-27,2017,3,Gemeinde,218,Ellikon an der Thur,NULL,45,NULL
+2025-11-27,2017,3,Gemeinde,219,Elsau,36,170,21.18
+2025-11-27,2017,3,Gemeinde,220,Hagenbuch,4,58,6.90
+2025-11-27,2017,3,Gemeinde,221,Hettlingen,71,186,38.18
+2025-11-27,2017,3,Gemeinde,222,Hofstetten (ZH),NULL,29,NULL
+2025-11-27,2017,3,Gemeinde,223,Neftenbach,44,242,18.18
+2025-11-27,2017,3,Gemeinde,224,Pfungen,23,145,15.86
+2025-11-27,2017,3,Gemeinde,225,Rickenbach (ZH),14,121,11.57
+2025-11-27,2017,3,Gemeinde,226,Schlatt (ZH),NULL,33,NULL
+2025-11-27,2017,3,Gemeinde,227,Seuzach,50,313,15.97
+2025-11-27,2017,3,Gemeinde,228,Turbenthal,16,233,6.87
+2025-11-27,2017,3,Gemeinde,230,Winterthur,798,4197,19.01
+2025-11-27,2017,3,Gemeinde,231,Zell (ZH),20,225,8.88
+2025-11-27,2017,3,Gemeinde,241,Aesch (ZH),NULL,43,NULL
+2025-11-27,2017,3,Gemeinde,242,Birmensdorf (ZH),39,214,18.22
+2025-11-27,2017,3,Gemeinde,243,Dietikon,73,1068,6.83
+2025-11-27,2017,3,Gemeinde,244,Geroldswil,28,170,16.47
+2025-11-27,2017,3,Gemeinde,245,Oberengstringen,33,242,13.64
+2025-11-27,2017,3,Gemeinde,246,Oetwil an der Limmat,20,94,21.28
+2025-11-27,2017,3,Gemeinde,247,Schlieren,55,711,7.74
+2025-11-27,2017,3,Gemeinde,248,Uitikon,52,143,36.36
+2025-11-27,2017,3,Gemeinde,249,Unterengstringen,29,132,21.97
+2025-11-27,2017,3,Gemeinde,250,Urdorf,71,387,18.34
+2025-11-27,2017,3,Gemeinde,251,Weiningen (ZH),26,207,12.56
+2025-11-27,2017,3,Gemeinde,261,Zürich,2389,11615,20.57
+2025-11-27,2017,3,Gemeinde,291,Andelfingen,26,134,0.19
+2025-11-27,2017,3,Gemeinde,292,Stammheim,15,140,0.11
+2025-11-27,2017,3,Gemeinde,293,Wädenswil,189,1037,0.19
+2025-11-27,2017,3,Gemeinde,294,Elgg,51,225,0.23
+2025-11-27,2017,3,Gemeinde,295,Horgen,156,867,0.18
+2025-11-27,2017,3,Gemeinde,296,Illnau-Effretikon,102,639,15.97
+2025-11-27,2017,3,Gemeinde,297,Bauma,24,268,8.95
+2025-11-27,2017,3,Gemeinde,298,Wiesendangen,76,303,25.08
+2025-11-27,2017,6,Raumplanungsregion,101,Zürich,31057,150995,20.57
+2025-11-27,2017,6,Raumplanungsregion,102,Glattal,1015,6513,15.59
+2025-11-27,2017,6,Raumplanungsregion,103,Furttal,171,1495,11.44
+2025-11-27,2017,6,Raumplanungsregion,104,Limmattal,437,3411,12.82
+2025-11-27,2017,6,Raumplanungsregion,105,Knonaueramt,491,2273,21.60
+2025-11-27,2017,6,Raumplanungsregion,106,Zimmerberg,1015,4697,21.61
+2025-11-27,2017,6,Raumplanungsregion,107,Pfannenstiel,1444,4469,32.31
+2025-11-27,2017,6,Raumplanungsregion,108,Oberland,1178,7149,16.47
+2025-11-27,2017,6,Raumplanungsregion,109,Winterthur u.U.,7011,37188,18.85
+2025-11-27,2017,6,Raumplanungsregion,110,Weinland,188,1419,13.25
+2025-11-27,2017,6,Raumplanungsregion,111,Unterland,735,5026,14.62
+2025-11-27,2018,1,Kanton,1,Kanton Zürich,10660,56072,19.01
+2025-11-27,2018,2,Bezirk,101,Bezirk Affoltern,472,2206,21.39
+2025-11-27,2018,2,Bezirk,102,Bezirk Andelfingen,185,1393,13.28
+2025-11-27,2018,2,Bezirk,103,Bezirk Bülach,819,5852,14.00
+2025-11-27,2018,2,Bezirk,104,Bezirk Dielsdorf,475,3933,12.08
+2025-11-27,2018,2,Bezirk,105,Bezirk Hinwil,644,4154,15.50
+2025-11-27,2018,2,Bezirk,106,Bezirk Horgen,1095,4703,23.28
+2025-11-27,2018,2,Bezirk,107,Bezirk Meilen,1338,4134,32.36
+2025-11-27,2018,2,Bezirk,108,Bezirk Pfäffikon,379,2461,15.40
+2025-11-27,2018,2,Bezirk,109,Bezirk Uster,1079,5240,20.59
+2025-11-27,2018,2,Bezirk,110,Bezirk Winterthur,1269,6810,18.63
+2025-11-27,2018,2,Bezirk,111,Bezirk Dietikon,462,3433,13.46
+2025-11-27,2018,2,Bezirk,112,Bezirk Zürich,2443,11753,20.78
+2025-11-27,2018,3,Gemeinde,1,Aeugst am Albis,30,95,31.58
+2025-11-27,2018,3,Gemeinde,2,Affoltern am Albis,75,508,14.76
+2025-11-27,2018,3,Gemeinde,3,Bonstetten,68,213,31.93
+2025-11-27,2018,3,Gemeinde,4,Hausen am Albis,32,164,19.51
+2025-11-27,2018,3,Gemeinde,5,Hedingen,48,177,27.12
+2025-11-27,2018,3,Gemeinde,6,Kappel am Albis,NULL,46,NULL
+2025-11-27,2018,3,Gemeinde,7,Knonau,9,101,8.91
+2025-11-27,2018,3,Gemeinde,8,Maschwanden,NULL,34,NULL
+2025-11-27,2018,3,Gemeinde,9,Mettmenstetten,45,211,21.33
+2025-11-27,2018,3,Gemeinde,10,Obfelden,32,231,13.85
+2025-11-27,2018,3,Gemeinde,11,Ottenbach,15,109,13.76
+2025-11-27,2018,3,Gemeinde,12,Rifferswil,NULL,32,NULL
+2025-11-27,2018,3,Gemeinde,13,Stallikon,43,117,36.75
+2025-11-27,2018,3,Gemeinde,14,Wettswil am Albis,53,168,31.55
+2025-11-27,2018,3,Gemeinde,21,Adlikon,NULL,16,NULL
+2025-11-27,2018,3,Gemeinde,22,Benken (ZH),NULL,35,NULL
+2025-11-27,2018,3,Gemeinde,23,Berg am Irchel,NULL,24,NULL
+2025-11-27,2018,3,Gemeinde,24,Buch am Irchel,NULL,28,NULL
+2025-11-27,2018,3,Gemeinde,25,Dachsen,11,96,11.46
+2025-11-27,2018,3,Gemeinde,26,Dorf,NULL,39,NULL
+2025-11-27,2018,3,Gemeinde,27,Feuerthalen,1,127,0.79
+2025-11-27,2018,3,Gemeinde,28,Flaach,9,71,12.68
+2025-11-27,2018,3,Gemeinde,29,Flurlingen,4,75,5.33
+2025-11-27,2018,3,Gemeinde,30,Andelfingen,14,87,16.09
+2025-11-27,2018,3,Gemeinde,31,Henggart,27,125,21.60
+2025-11-27,2018,3,Gemeinde,32,Humlikon,NULL,28,NULL
+2025-11-27,2018,3,Gemeinde,33,Kleinandelfingen,17,88,19.32
+2025-11-27,2018,3,Gemeinde,34,Laufen-Uhwiesen,6,74,8.11
+2025-11-27,2018,3,Gemeinde,35,Marthalen,7,87,8.05
+2025-11-27,2018,3,Gemeinde,36,Oberstammheim,NULL,40,NULL
+2025-11-27,2018,3,Gemeinde,37,Ossingen,13,78,16.67
+2025-11-27,2018,3,Gemeinde,38,Rheinau,15,58,25.86
+2025-11-27,2018,3,Gemeinde,39,Thalheim an der Thur,NULL,41,NULL
+2025-11-27,2018,3,Gemeinde,40,Trüllikon,NULL,34,NULL
+2025-11-27,2018,3,Gemeinde,41,Truttikon,NULL,33,NULL
+2025-11-27,2018,3,Gemeinde,42,Unterstammheim,5,61,8.20
+2025-11-27,2018,3,Gemeinde,43,Volken,NULL,11,NULL
+2025-11-27,2018,3,Gemeinde,44,Waltalingen,NULL,37,NULL
+2025-11-27,2018,3,Gemeinde,51,Bachenbülach,37,168,22.02
+2025-11-27,2018,3,Gemeinde,52,Bassersdorf,74,531,13.93
+2025-11-27,2018,3,Gemeinde,53,Bülach,128,826,15.50
+2025-11-27,2018,3,Gemeinde,54,Dietlikon,46,309,14.89
+2025-11-27,2018,3,Gemeinde,55,Eglisau,42,227,18.50
+2025-11-27,2018,3,Gemeinde,56,Embrach,55,391,14.07
+2025-11-27,2018,3,Gemeinde,57,Freienstein-Teufen,21,122,17.21
+2025-11-27,2018,3,Gemeinde,58,Glattfelden,33,225,14.66
+2025-11-27,2018,3,Gemeinde,59,Hochfelden,11,93,11.83
+2025-11-27,2018,3,Gemeinde,60,Höri,8,141,5.67
+2025-11-27,2018,3,Gemeinde,61,Hüntwangen,NULL,39,NULL
+2025-11-27,2018,3,Gemeinde,62,Kloten,74,724,10.22
+2025-11-27,2018,3,Gemeinde,63,Lufingen,19,89,21.34
+2025-11-27,2018,3,Gemeinde,64,Nürensdorf,41,212,19.34
+2025-11-27,2018,3,Gemeinde,65,Oberembrach,NULL,46,NULL
+2025-11-27,2018,3,Gemeinde,66,Opfikon,36,584,6.16
+2025-11-27,2018,3,Gemeinde,67,Rafz,33,226,14.60
+2025-11-27,2018,3,Gemeinde,68,Rorbas,16,113,14.16
+2025-11-27,2018,3,Gemeinde,69,Wallisellen,64,532,12.03
+2025-11-27,2018,3,Gemeinde,70,Wasterkingen,NULL,20,NULL
+2025-11-27,2018,3,Gemeinde,71,Wil (ZH),18,53,33.96
+2025-11-27,2018,3,Gemeinde,72,Winkel,44,181,24.31
+2025-11-27,2018,3,Gemeinde,81,Bachs,NULL,23,NULL
+2025-11-27,2018,3,Gemeinde,82,Boppelsen,16,58,27.59
+2025-11-27,2018,3,Gemeinde,83,Buchs (ZH),33,284,11.62
+2025-11-27,2018,3,Gemeinde,84,Dällikon,13,174,7.47
+2025-11-27,2018,3,Gemeinde,85,Dänikon,10,70,14.29
+2025-11-27,2018,3,Gemeinde,86,Dielsdorf,26,255,10.20
+2025-11-27,2018,3,Gemeinde,87,Hüttikon,NULL,22,NULL
+2025-11-27,2018,3,Gemeinde,88,Neerach,21,120,17.50
+2025-11-27,2018,3,Gemeinde,89,Niederglatt,30,239,12.55
+2025-11-27,2018,3,Gemeinde,90,Niederhasli,51,477,10.69
+2025-11-27,2018,3,Gemeinde,91,Niederweningen,29,174,16.67
+2025-11-27,2018,3,Gemeinde,92,Oberglatt,31,332,9.33
+2025-11-27,2018,3,Gemeinde,93,Oberweningen,16,90,17.78
+2025-11-27,2018,3,Gemeinde,94,Otelfingen,22,108,20.37
+2025-11-27,2018,3,Gemeinde,95,Regensberg,NULL,19,NULL
+2025-11-27,2018,3,Gemeinde,96,Regensdorf,78,794,9.83
+2025-11-27,2018,3,Gemeinde,97,Rümlang,29,304,9.54
+2025-11-27,2018,3,Gemeinde,98,Schleinikon,NULL,46,NULL
+2025-11-27,2018,3,Gemeinde,99,Schöfflisdorf,10,58,17.24
+2025-11-27,2018,3,Gemeinde,100,Stadel,15,99,15.15
+2025-11-27,2018,3,Gemeinde,101,Steinmaur,26,130,20.00
+2025-11-27,2018,3,Gemeinde,102,Weiach,4,57,7.02
+2025-11-27,2018,3,Gemeinde,111,Bäretswil,35,222,15.77
+2025-11-27,2018,3,Gemeinde,112,Bubikon,65,315,20.63
+2025-11-27,2018,3,Gemeinde,113,Dürnten,62,360,17.23
+2025-11-27,2018,3,Gemeinde,114,Fischenthal,4,110,3.64
+2025-11-27,2018,3,Gemeinde,115,Gossau (ZH),82,463,17.71
+2025-11-27,2018,3,Gemeinde,116,Grüningen,24,148,16.22
+2025-11-27,2018,3,Gemeinde,117,Hinwil,64,490,13.06
+2025-11-27,2018,3,Gemeinde,118,Rüti (ZH),78,493,15.82
+2025-11-27,2018,3,Gemeinde,119,Seegräben,12,55,21.82
+2025-11-27,2018,3,Gemeinde,120,Wald (ZH),34,410,8.29
+2025-11-27,2018,3,Gemeinde,121,Wetzikon (ZH),184,1088,16.91
+2025-11-27,2018,3,Gemeinde,131,Adliswil,127,630,20.16
+2025-11-27,2018,3,Gemeinde,134,Hütten,8,56,14.29
+2025-11-27,2018,3,Gemeinde,135,Kilchberg (ZH),115,276,41.67
+2025-11-27,2018,3,Gemeinde,136,Langnau am Albis,73,326,22.39
+2025-11-27,2018,3,Gemeinde,137,Oberrieden,62,188,32.98
+2025-11-27,2018,3,Gemeinde,138,Richterswil,100,553,18.08
+2025-11-27,2018,3,Gemeinde,139,Rüschlikon,59,211,27.96
+2025-11-27,2018,3,Gemeinde,140,Schönenberg (ZH),19,93,20.43
+2025-11-27,2018,3,Gemeinde,141,Thalwil,159,600,26.50
+2025-11-27,2018,3,Gemeinde,142,Wädenswil,185,890,20.78
+2025-11-27,2018,3,Gemeinde,151,Erlenbach (ZH),103,259,39.77
+2025-11-27,2018,3,Gemeinde,152,Herrliberg,126,286,44.06
+2025-11-27,2018,3,Gemeinde,153,Hombrechtikon,74,389,19.02
+2025-11-27,2018,3,Gemeinde,154,Küsnacht (ZH),187,473,39.53
+2025-11-27,2018,3,Gemeinde,155,Männedorf,140,464,30.17
+2025-11-27,2018,3,Gemeinde,156,Meilen,175,526,33.27
+2025-11-27,2018,3,Gemeinde,157,Oetwil am See,33,214,15.42
+2025-11-27,2018,3,Gemeinde,158,Stäfa,185,590,31.36
+2025-11-27,2018,3,Gemeinde,159,Uetikon am See,91,323,28.17
+2025-11-27,2018,3,Gemeinde,160,Zumikon,68,196,34.69
+2025-11-27,2018,3,Gemeinde,161,Zollikon,156,414,37.68
+2025-11-27,2018,3,Gemeinde,172,Fehraltorf,27,238,11.34
+2025-11-27,2018,3,Gemeinde,173,Hittnau,23,172,13.38
+2025-11-27,2018,3,Gemeinde,176,Lindau,33,255,12.94
+2025-11-27,2018,3,Gemeinde,177,Pfäffikon,81,457,17.73
+2025-11-27,2018,3,Gemeinde,178,Russikon,33,157,21.02
+2025-11-27,2018,3,Gemeinde,180,Weisslingen,33,165,20.00
+2025-11-27,2018,3,Gemeinde,181,Wila,10,96,10.42
+2025-11-27,2018,3,Gemeinde,182,Wildberg,NULL,41,NULL
+2025-11-27,2018,3,Gemeinde,191,Dübendorf,142,1001,14.19
+2025-11-27,2018,3,Gemeinde,192,Egg,104,395,26.33
+2025-11-27,2018,3,Gemeinde,193,Fällanden,79,314,25.16
+2025-11-27,2018,3,Gemeinde,194,Greifensee,69,218,31.65
+2025-11-27,2018,3,Gemeinde,195,Maur,162,449,36.08
+2025-11-27,2018,3,Gemeinde,196,Mönchaltorf,30,147,20.41
+2025-11-27,2018,3,Gemeinde,197,Schwerzenbach,41,196,20.92
+2025-11-27,2018,3,Gemeinde,198,Uster,303,1353,22.39
+2025-11-27,2018,3,Gemeinde,199,Volketswil,96,797,12.05
+2025-11-27,2018,3,Gemeinde,200,Wangen-Brüttisellen,53,370,14.32
+2025-11-27,2018,3,Gemeinde,211,Altikon,NULL,30,NULL
+2025-11-27,2018,3,Gemeinde,213,Brütten,29,90,32.22
+2025-11-27,2018,3,Gemeinde,214,Dägerlen,NULL,40,NULL
+2025-11-27,2018,3,Gemeinde,215,Dättlikon,NULL,24,NULL
+2025-11-27,2018,3,Gemeinde,216,Dinhard,9,69,13.04
+2025-11-27,2018,3,Gemeinde,218,Ellikon an der Thur,NULL,44,NULL
+2025-11-27,2018,3,Gemeinde,219,Elsau,30,179,16.76
+2025-11-27,2018,3,Gemeinde,220,Hagenbuch,3,54,5.56
+2025-11-27,2018,3,Gemeinde,221,Hettlingen,81,207,39.13
+2025-11-27,2018,3,Gemeinde,223,Neftenbach,44,235,18.73
+2025-11-27,2018,3,Gemeinde,224,Pfungen,28,160,17.50
+2025-11-27,2018,3,Gemeinde,225,Rickenbach (ZH),26,130,20.00
+2025-11-27,2018,3,Gemeinde,226,Schlatt (ZH),NULL,29,NULL
+2025-11-27,2018,3,Gemeinde,227,Seuzach,50,314,15.93
+2025-11-27,2018,3,Gemeinde,228,Turbenthal,21,236,8.90
+2025-11-27,2018,3,Gemeinde,230,Winterthur,782,4186,18.68
+2025-11-27,2018,3,Gemeinde,231,Zell (ZH),22,247,8.90
+2025-11-27,2018,3,Gemeinde,241,Aesch (ZH),NULL,48,NULL
+2025-11-27,2018,3,Gemeinde,242,Birmensdorf (ZH),43,208,20.67
+2025-11-27,2018,3,Gemeinde,243,Dietikon,74,1082,6.84
+2025-11-27,2018,3,Gemeinde,244,Geroldswil,28,177,15.81
+2025-11-27,2018,3,Gemeinde,245,Oberengstringen,34,237,14.34
+2025-11-27,2018,3,Gemeinde,246,Oetwil an der Limmat,18,93,19.35
+2025-11-27,2018,3,Gemeinde,247,Schlieren,57,700,8.14
+2025-11-27,2018,3,Gemeinde,248,Uitikon,64,164,39.02
+2025-11-27,2018,3,Gemeinde,249,Unterengstringen,31,127,24.41
+2025-11-27,2018,3,Gemeinde,250,Urdorf,72,391,18.42
+2025-11-27,2018,3,Gemeinde,251,Weiningen (ZH),24,206,11.65
+2025-11-27,2018,3,Gemeinde,261,Zürich,2443,11753,20.78
+2025-11-27,2018,3,Gemeinde,291,Andelfingen,22,131,0.17
+2025-11-27,2018,3,Gemeinde,292,Stammheim,11,138,0.08
+2025-11-27,2018,3,Gemeinde,293,Wädenswil,212,1039,0.20
+2025-11-27,2018,3,Gemeinde,294,Elgg,43,236,18.22
+2025-11-27,2018,3,Gemeinde,295,Horgen,188,880,21.36
+2025-11-27,2018,3,Gemeinde,296,Illnau-Effretikon,104,652,15.95
+2025-11-27,2018,3,Gemeinde,297,Bauma,25,228,10.96
+2025-11-27,2018,3,Gemeinde,298,Wiesendangen,72,300,24.00
+2025-11-27,2018,6,Raumplanungsregion,101,Zürich,31759,152789,20.78
+2025-11-27,2018,6,Raumplanungsregion,102,Glattal,1006,6541,15.38
+2025-11-27,2018,6,Raumplanungsregion,103,Furttal,174,1510,11.52
+2025-11-27,2018,6,Raumplanungsregion,104,Limmattal,462,3433,13.46
+2025-11-27,2018,6,Raumplanungsregion,105,Knonaueramt,472,2206,21.39
+2025-11-27,2018,6,Raumplanungsregion,106,Zimmerberg,1095,4703,23.28
+2025-11-27,2018,6,Raumplanungsregion,107,Pfannenstiel,1442,4529,31.84
+2025-11-27,2018,6,Raumplanungsregion,108,Oberland,1186,7043,16.84
+2025-11-27,2018,6,Raumplanungsregion,109,Winterthur u.U.,6913,37184,18.59
+2025-11-27,2018,6,Raumplanungsregion,110,Weinland,185,1393,13.28
+2025-11-27,2018,6,Raumplanungsregion,111,Unterland,756,5079,14.88
+2025-11-27,2019,1,Kanton,1,Kanton Zürich,10755,56413,19.07
+2025-11-27,2019,2,Bezirk,101,Bezirk Affoltern,440,2173,20.25
+2025-11-27,2019,2,Bezirk,102,Bezirk Andelfingen,185,1410,13.12
+2025-11-27,2019,2,Bezirk,103,Bezirk Bülach,804,5840,13.77
+2025-11-27,2019,2,Bezirk,104,Bezirk Dielsdorf,500,3932,12.72
+2025-11-27,2019,2,Bezirk,105,Bezirk Hinwil,664,4244,15.65
+2025-11-27,2019,2,Bezirk,106,Bezirk Horgen,1072,4694,22.84
+2025-11-27,2019,2,Bezirk,107,Bezirk Meilen,1414,4183,33.80
+2025-11-27,2019,2,Bezirk,108,Bezirk Pfäffikon,393,2490,15.78
+2025-11-27,2019,2,Bezirk,109,Bezirk Uster,1048,5293,19.80
+2025-11-27,2019,2,Bezirk,110,Bezirk Winterthur,1252,6753,18.54
+2025-11-27,2019,2,Bezirk,111,Bezirk Dietikon,457,3457,13.22
+2025-11-27,2019,2,Bezirk,112,Bezirk Zürich,2526,11944,21.15
+2025-11-27,2019,3,Gemeinde,1,Aeugst am Albis,27,95,28.42
+2025-11-27,2019,3,Gemeinde,2,Affoltern am Albis,69,474,14.55
+2025-11-27,2019,3,Gemeinde,3,Bonstetten,59,208,28.36
+2025-11-27,2019,3,Gemeinde,4,Hausen am Albis,28,169,16.57
+2025-11-27,2019,3,Gemeinde,5,Hedingen,48,169,28.40
+2025-11-27,2019,3,Gemeinde,6,Kappel am Albis,NULL,42,NULL
+2025-11-27,2019,3,Gemeinde,7,Knonau,7,85,8.24
+2025-11-27,2019,3,Gemeinde,8,Maschwanden,NULL,28,NULL
+2025-11-27,2019,3,Gemeinde,9,Mettmenstetten,41,216,18.98
+2025-11-27,2019,3,Gemeinde,10,Obfelden,33,227,14.54
+2025-11-27,2019,3,Gemeinde,11,Ottenbach,15,113,13.27
+2025-11-27,2019,3,Gemeinde,12,Rifferswil,NULL,36,NULL
+2025-11-27,2019,3,Gemeinde,13,Stallikon,38,133,28.57
+2025-11-27,2019,3,Gemeinde,14,Wettswil am Albis,56,178,31.46
+2025-11-27,2019,3,Gemeinde,21,Adlikon,NULL,14,NULL
+2025-11-27,2019,3,Gemeinde,22,Benken (ZH),NULL,40,NULL
+2025-11-27,2019,3,Gemeinde,23,Berg am Irchel,NULL,18,NULL
+2025-11-27,2019,3,Gemeinde,24,Buch am Irchel,NULL,27,NULL
+2025-11-27,2019,3,Gemeinde,25,Dachsen,8,96,8.33
+2025-11-27,2019,3,Gemeinde,26,Dorf,NULL,44,NULL
+2025-11-27,2019,3,Gemeinde,27,Feuerthalen,1,140,0.71
+2025-11-27,2019,3,Gemeinde,28,Flaach,8,69,11.59
+2025-11-27,2019,3,Gemeinde,29,Flurlingen,5,77,6.49
+2025-11-27,2019,3,Gemeinde,30,Andelfingen,18,86,20.93
+2025-11-27,2019,3,Gemeinde,31,Henggart,28,135,20.74
+2025-11-27,2019,3,Gemeinde,32,Humlikon,NULL,26,NULL
+2025-11-27,2019,3,Gemeinde,33,Kleinandelfingen,16,81,19.75
+2025-11-27,2019,3,Gemeinde,34,Laufen-Uhwiesen,7,85,8.24
+2025-11-27,2019,3,Gemeinde,35,Marthalen,2,76,2.63
+2025-11-27,2019,3,Gemeinde,37,Ossingen,17,87,19.54
+2025-11-27,2019,3,Gemeinde,38,Rheinau,11,56,19.64
+2025-11-27,2019,3,Gemeinde,39,Thalheim an der Thur,NULL,40,NULL
+2025-11-27,2019,3,Gemeinde,40,Trüllikon,NULL,34,NULL
+2025-11-27,2019,3,Gemeinde,41,Truttikon,NULL,34,NULL
+2025-11-27,2019,3,Gemeinde,43,Volken,NULL,12,NULL
+2025-11-27,2019,3,Gemeinde,51,Bachenbülach,38,171,22.22
+2025-11-27,2019,3,Gemeinde,52,Bassersdorf,74,519,14.26
+2025-11-27,2019,3,Gemeinde,53,Bülach,117,825,14.18
+2025-11-27,2019,3,Gemeinde,54,Dietlikon,47,327,14.37
+2025-11-27,2019,3,Gemeinde,55,Eglisau,37,215,17.21
+2025-11-27,2019,3,Gemeinde,56,Embrach,52,389,13.37
+2025-11-27,2019,3,Gemeinde,57,Freienstein-Teufen,22,123,17.89
+2025-11-27,2019,3,Gemeinde,58,Glattfelden,30,208,14.42
+2025-11-27,2019,3,Gemeinde,59,Hochfelden,13,101,12.87
+2025-11-27,2019,3,Gemeinde,60,Höri,9,131,6.87
+2025-11-27,2019,3,Gemeinde,61,Hüntwangen,NULL,36,NULL
+2025-11-27,2019,3,Gemeinde,62,Kloten,66,754,8.75
+2025-11-27,2019,3,Gemeinde,63,Lufingen,26,90,28.89
+2025-11-27,2019,3,Gemeinde,64,Nürensdorf,36,205,17.57
+2025-11-27,2019,3,Gemeinde,65,Oberembrach,NULL,43,NULL
+2025-11-27,2019,3,Gemeinde,66,Opfikon,45,600,7.50
+2025-11-27,2019,3,Gemeinde,67,Rafz,32,215,14.88
+2025-11-27,2019,3,Gemeinde,68,Rorbas,15,121,12.39
+2025-11-27,2019,3,Gemeinde,69,Wallisellen,64,509,12.58
+2025-11-27,2019,3,Gemeinde,70,Wasterkingen,NULL,19,NULL
+2025-11-27,2019,3,Gemeinde,71,Wil (ZH),15,57,26.32
+2025-11-27,2019,3,Gemeinde,72,Winkel,49,182,26.92
+2025-11-27,2019,3,Gemeinde,81,Bachs,NULL,25,NULL
+2025-11-27,2019,3,Gemeinde,82,Boppelsen,16,60,26.67
+2025-11-27,2019,3,Gemeinde,83,Buchs (ZH),36,283,12.72
+2025-11-27,2019,3,Gemeinde,84,Dällikon,14,152,9.21
+2025-11-27,2019,3,Gemeinde,85,Dänikon,14,86,16.28
+2025-11-27,2019,3,Gemeinde,86,Dielsdorf,26,256,10.15
+2025-11-27,2019,3,Gemeinde,87,Hüttikon,NULL,26,NULL
+2025-11-27,2019,3,Gemeinde,88,Neerach,24,119,20.17
+2025-11-27,2019,3,Gemeinde,89,Niederglatt,32,235,13.62
+2025-11-27,2019,3,Gemeinde,90,Niederhasli,50,473,10.57
+2025-11-27,2019,3,Gemeinde,91,Niederweningen,33,176,18.75
+2025-11-27,2019,3,Gemeinde,92,Oberglatt,32,334,9.58
+2025-11-27,2019,3,Gemeinde,93,Oberweningen,16,90,17.78
+2025-11-27,2019,3,Gemeinde,94,Otelfingen,21,107,19.62
+2025-11-27,2019,3,Gemeinde,95,Regensberg,NULL,23,NULL
+2025-11-27,2019,3,Gemeinde,96,Regensdorf,81,794,10.20
+2025-11-27,2019,3,Gemeinde,97,Rümlang,30,306,9.80
+2025-11-27,2019,3,Gemeinde,98,Schleinikon,NULL,42,NULL
+2025-11-27,2019,3,Gemeinde,99,Schöfflisdorf,10,59,16.95
+2025-11-27,2019,3,Gemeinde,100,Stadel,16,103,15.53
+2025-11-27,2019,3,Gemeinde,101,Steinmaur,24,129,18.60
+2025-11-27,2019,3,Gemeinde,102,Weiach,7,54,12.96
+2025-11-27,2019,3,Gemeinde,111,Bäretswil,35,217,16.13
+2025-11-27,2019,3,Gemeinde,112,Bubikon,72,321,22.43
+2025-11-27,2019,3,Gemeinde,113,Dürnten,61,368,16.57
+2025-11-27,2019,3,Gemeinde,114,Fischenthal,6,104,5.77
+2025-11-27,2019,3,Gemeinde,115,Gossau (ZH),76,502,15.14
+2025-11-27,2019,3,Gemeinde,116,Grüningen,28,159,17.61
+2025-11-27,2019,3,Gemeinde,117,Hinwil,68,500,13.60
+2025-11-27,2019,3,Gemeinde,118,Rüti (ZH),76,503,15.11
+2025-11-27,2019,3,Gemeinde,119,Seegräben,12,58,20.69
+2025-11-27,2019,3,Gemeinde,120,Wald (ZH),40,417,9.59
+2025-11-27,2019,3,Gemeinde,121,Wetzikon (ZH),190,1095,17.35
+2025-11-27,2019,3,Gemeinde,131,Adliswil,125,613,20.40
+2025-11-27,2019,3,Gemeinde,135,Kilchberg (ZH),118,306,38.56
+2025-11-27,2019,3,Gemeinde,136,Langnau am Albis,69,324,21.30
+2025-11-27,2019,3,Gemeinde,137,Oberrieden,55,183,30.06
+2025-11-27,2019,3,Gemeinde,138,Richterswil,104,539,19.30
+2025-11-27,2019,3,Gemeinde,139,Rüschlikon,63,219,28.77
+2025-11-27,2019,3,Gemeinde,141,Thalwil,141,599,23.54
+2025-11-27,2019,3,Gemeinde,151,Erlenbach (ZH),96,258,37.21
+2025-11-27,2019,3,Gemeinde,152,Herrliberg,129,293,44.03
+2025-11-27,2019,3,Gemeinde,153,Hombrechtikon,73,391,18.67
+2025-11-27,2019,3,Gemeinde,154,Küsnacht (ZH),188,441,42.63
+2025-11-27,2019,3,Gemeinde,155,Männedorf,164,489,33.54
+2025-11-27,2019,3,Gemeinde,156,Meilen,199,538,36.99
+2025-11-27,2019,3,Gemeinde,157,Oetwil am See,33,205,16.09
+2025-11-27,2019,3,Gemeinde,158,Stäfa,189,599,31.55
+2025-11-27,2019,3,Gemeinde,159,Uetikon am See,91,336,27.08
+2025-11-27,2019,3,Gemeinde,160,Zumikon,76,196,38.78
+2025-11-27,2019,3,Gemeinde,161,Zollikon,176,437,40.28
+2025-11-27,2019,3,Gemeinde,172,Fehraltorf,24,228,10.53
+2025-11-27,2019,3,Gemeinde,173,Hittnau,29,194,14.95
+2025-11-27,2019,3,Gemeinde,176,Lindau,37,264,14.02
+2025-11-27,2019,3,Gemeinde,177,Pfäffikon,72,467,15.42
+2025-11-27,2019,3,Gemeinde,178,Russikon,27,159,16.98
+2025-11-27,2019,3,Gemeinde,180,Weisslingen,33,166,19.88
+2025-11-27,2019,3,Gemeinde,181,Wila,10,91,10.99
+2025-11-27,2019,3,Gemeinde,182,Wildberg,NULL,39,NULL
+2025-11-27,2019,3,Gemeinde,191,Dübendorf,164,1026,15.98
+2025-11-27,2019,3,Gemeinde,192,Egg,97,393,24.68
+2025-11-27,2019,3,Gemeinde,193,Fällanden,74,310,23.87
+2025-11-27,2019,3,Gemeinde,194,Greifensee,58,219,26.48
+2025-11-27,2019,3,Gemeinde,195,Maur,167,488,34.22
+2025-11-27,2019,3,Gemeinde,196,Mönchaltorf,24,153,15.68
+2025-11-27,2019,3,Gemeinde,197,Schwerzenbach,28,197,14.22
+2025-11-27,2019,3,Gemeinde,198,Uster,296,1365,21.68
+2025-11-27,2019,3,Gemeinde,199,Volketswil,91,765,11.90
+2025-11-27,2019,3,Gemeinde,200,Wangen-Brüttisellen,49,377,13.00
+2025-11-27,2019,3,Gemeinde,211,Altikon,NULL,34,NULL
+2025-11-27,2019,3,Gemeinde,213,Brütten,30,79,37.97
+2025-11-27,2019,3,Gemeinde,214,Dägerlen,NULL,43,NULL
+2025-11-27,2019,3,Gemeinde,215,Dättlikon,NULL,25,NULL
+2025-11-27,2019,3,Gemeinde,216,Dinhard,8,65,12.31
+2025-11-27,2019,3,Gemeinde,218,Ellikon an der Thur,NULL,42,NULL
+2025-11-27,2019,3,Gemeinde,219,Elsau,29,173,16.76
+2025-11-27,2019,3,Gemeinde,220,Hagenbuch,NULL,47,NULL
+2025-11-27,2019,3,Gemeinde,221,Hettlingen,72,211,34.12
+2025-11-27,2019,3,Gemeinde,223,Neftenbach,35,241,14.52
+2025-11-27,2019,3,Gemeinde,224,Pfungen,30,172,17.44
+2025-11-27,2019,3,Gemeinde,225,Rickenbach (ZH),25,141,17.73
+2025-11-27,2019,3,Gemeinde,226,Schlatt (ZH),NULL,32,NULL
+2025-11-27,2019,3,Gemeinde,227,Seuzach,55,308,17.85
+2025-11-27,2019,3,Gemeinde,228,Turbenthal,21,237,8.86
+2025-11-27,2019,3,Gemeinde,230,Winterthur,774,4141,18.70
+2025-11-27,2019,3,Gemeinde,231,Zell (ZH),27,251,10.76
+2025-11-27,2019,3,Gemeinde,241,Aesch (ZH),NULL,50,NULL
+2025-11-27,2019,3,Gemeinde,242,Birmensdorf (ZH),40,209,19.14
+2025-11-27,2019,3,Gemeinde,243,Dietikon,80,1097,7.30
+2025-11-27,2019,3,Gemeinde,244,Geroldswil,27,170,15.88
+2025-11-27,2019,3,Gemeinde,245,Oberengstringen,31,243,12.75
+2025-11-27,2019,3,Gemeinde,246,Oetwil an der Limmat,19,96,19.79
+2025-11-27,2019,3,Gemeinde,247,Schlieren,51,711,7.17
+2025-11-27,2019,3,Gemeinde,248,Uitikon,71,177,40.11
+2025-11-27,2019,3,Gemeinde,249,Unterengstringen,29,119,24.37
+2025-11-27,2019,3,Gemeinde,250,Urdorf,64,393,16.29
+2025-11-27,2019,3,Gemeinde,251,Weiningen (ZH),26,192,13.54
+2025-11-27,2019,3,Gemeinde,261,Zürich,2526,11944,21.15
+2025-11-27,2019,3,Gemeinde,291,Andelfingen,23,126,0.19
+2025-11-27,2019,3,Gemeinde,292,Stammheim,12,133,9.02
+2025-11-27,2019,3,Gemeinde,293,Wädenswil,207,1018,20.33
+2025-11-27,2019,3,Gemeinde,294,Elgg,44,220,20.00
+2025-11-27,2019,3,Gemeinde,295,Horgen,190,893,21.27
+2025-11-27,2019,3,Gemeinde,296,Illnau-Effretikon,125,667,18.74
+2025-11-27,2019,3,Gemeinde,297,Bauma,28,215,13.02
+2025-11-27,2019,3,Gemeinde,298,Wiesendangen,68,291,23.36
+2025-11-27,2019,6,Raumplanungsregion,101,Zürich,32838,155272,21.15
+2025-11-27,2019,6,Raumplanungsregion,102,Glattal,993,6602,15.04
+2025-11-27,2019,6,Raumplanungsregion,103,Furttal,185,1508,12.27
+2025-11-27,2019,6,Raumplanungsregion,104,Limmattal,457,3457,13.22
+2025-11-27,2019,6,Raumplanungsregion,105,Knonaueramt,440,2173,20.25
+2025-11-27,2019,6,Raumplanungsregion,106,Zimmerberg,1072,4694,22.84
+2025-11-27,2019,6,Raumplanungsregion,107,Pfannenstiel,1511,4576,33.02
+2025-11-27,2019,6,Raumplanungsregion,108,Oberland,1182,7155,16.52
+2025-11-27,2019,6,Raumplanungsregion,109,Winterthur u.U.,6865,36837,18.64
+2025-11-27,2019,6,Raumplanungsregion,110,Weinland,185,1410,13.12
+2025-11-27,2019,6,Raumplanungsregion,111,Unterland,757,5044,15.01
+2025-11-27,2020,1,Kanton,1,Kanton Zürich,10807,56048,19.28
+2025-11-27,2020,2,Bezirk,101,Bezirk Affoltern,425,2226,19.09
+2025-11-27,2020,2,Bezirk,102,Bezirk Andelfingen,186,1367,13.61
+2025-11-27,2020,2,Bezirk,103,Bezirk Bülach,806,5889,13.68
+2025-11-27,2020,2,Bezirk,104,Bezirk Dielsdorf,487,3899,12.49
+2025-11-27,2020,2,Bezirk,105,Bezirk Hinwil,665,4100,16.22
+2025-11-27,2020,2,Bezirk,106,Bezirk Horgen,1077,4534,23.76
+2025-11-27,2020,2,Bezirk,107,Bezirk Meilen,1457,4119,35.37
+2025-11-27,2020,2,Bezirk,108,Bezirk Pfäffikon,430,2461,17.47
+2025-11-27,2020,2,Bezirk,109,Bezirk Uster,1052,5260,20.00
+2025-11-27,2020,2,Bezirk,110,Bezirk Winterthur,1215,6638,18.31
+2025-11-27,2020,2,Bezirk,111,Bezirk Dietikon,453,3497,12.95
+2025-11-27,2020,2,Bezirk,112,Bezirk Zürich,2554,12058,21.18
+2025-11-27,2020,3,Gemeinde,1,Aeugst am Albis,27,83,32.53
+2025-11-27,2020,3,Gemeinde,2,Affoltern am Albis,66,470,14.05
+2025-11-27,2020,3,Gemeinde,3,Bonstetten,48,236,20.34
+2025-11-27,2020,3,Gemeinde,4,Hausen am Albis,34,168,20.24
+2025-11-27,2020,3,Gemeinde,5,Hedingen,42,184,22.83
+2025-11-27,2020,3,Gemeinde,6,Kappel am Albis,NULL,46,NULL
+2025-11-27,2020,3,Gemeinde,7,Knonau,8,94,8.51
+2025-11-27,2020,3,Gemeinde,8,Maschwanden,NULL,27,NULL
+2025-11-27,2020,3,Gemeinde,9,Mettmenstetten,43,211,20.38
+2025-11-27,2020,3,Gemeinde,10,Obfelden,21,230,9.13
+2025-11-27,2020,3,Gemeinde,11,Ottenbach,13,111,11.71
+2025-11-27,2020,3,Gemeinde,12,Rifferswil,NULL,45,NULL
+2025-11-27,2020,3,Gemeinde,13,Stallikon,45,123,36.58
+2025-11-27,2020,3,Gemeinde,14,Wettswil am Albis,60,198,30.31
+2025-11-27,2020,3,Gemeinde,21,Adlikon,NULL,13,NULL
+2025-11-27,2020,3,Gemeinde,22,Benken (ZH),NULL,45,NULL
+2025-11-27,2020,3,Gemeinde,23,Berg am Irchel,NULL,15,NULL
+2025-11-27,2020,3,Gemeinde,24,Buch am Irchel,NULL,30,NULL
+2025-11-27,2020,3,Gemeinde,25,Dachsen,8,102,7.84
+2025-11-27,2020,3,Gemeinde,26,Dorf,NULL,39,NULL
+2025-11-27,2020,3,Gemeinde,27,Feuerthalen,2,135,1.48
+2025-11-27,2020,3,Gemeinde,28,Flaach,10,68,14.71
+2025-11-27,2020,3,Gemeinde,29,Flurlingen,5,75,6.67
+2025-11-27,2020,3,Gemeinde,30,Andelfingen,16,81,19.75
+2025-11-27,2020,3,Gemeinde,31,Henggart,27,128,21.10
+2025-11-27,2020,3,Gemeinde,32,Humlikon,NULL,24,NULL
+2025-11-27,2020,3,Gemeinde,33,Kleinandelfingen,13,79,16.45
+2025-11-27,2020,3,Gemeinde,34,Laufen-Uhwiesen,6,79,7.59
+2025-11-27,2020,3,Gemeinde,35,Marthalen,6,72,8.33
+2025-11-27,2020,3,Gemeinde,37,Ossingen,16,91,17.58
+2025-11-27,2020,3,Gemeinde,38,Rheinau,NULL,45,NULL
+2025-11-27,2020,3,Gemeinde,39,Thalheim an der Thur,NULL,39,NULL
+2025-11-27,2020,3,Gemeinde,40,Trüllikon,NULL,36,NULL
+2025-11-27,2020,3,Gemeinde,41,Truttikon,NULL,31,NULL
+2025-11-27,2020,3,Gemeinde,43,Volken,NULL,17,NULL
+2025-11-27,2020,3,Gemeinde,51,Bachenbülach,41,173,23.70
+2025-11-27,2020,3,Gemeinde,52,Bassersdorf,73,540,13.52
+2025-11-27,2020,3,Gemeinde,53,Bülach,125,838,14.91
+2025-11-27,2020,3,Gemeinde,54,Dietlikon,50,313,15.97
+2025-11-27,2020,3,Gemeinde,55,Eglisau,34,197,17.26
+2025-11-27,2020,3,Gemeinde,56,Embrach,47,397,11.84
+2025-11-27,2020,3,Gemeinde,57,Freienstein-Teufen,20,121,16.53
+2025-11-27,2020,3,Gemeinde,58,Glattfelden,26,197,13.20
+2025-11-27,2020,3,Gemeinde,59,Hochfelden,10,97,10.31
+2025-11-27,2020,3,Gemeinde,60,Höri,10,117,8.55
+2025-11-27,2020,3,Gemeinde,61,Hüntwangen,NULL,38,NULL
+2025-11-27,2020,3,Gemeinde,62,Kloten,69,768,8.98
+2025-11-27,2020,3,Gemeinde,63,Lufingen,26,99,26.26
+2025-11-27,2020,3,Gemeinde,64,Nürensdorf,27,199,13.57
+2025-11-27,2020,3,Gemeinde,65,Oberembrach,NULL,36,NULL
+2025-11-27,2020,3,Gemeinde,66,Opfikon,52,625,8.32
+2025-11-27,2020,3,Gemeinde,67,Rafz,30,216,13.89
+2025-11-27,2020,3,Gemeinde,68,Rorbas,14,123,11.39
+2025-11-27,2020,3,Gemeinde,69,Wallisellen,73,541,13.49
+2025-11-27,2020,3,Gemeinde,70,Wasterkingen,NULL,16,NULL
+2025-11-27,2020,3,Gemeinde,71,Wil (ZH),14,52,26.92
+2025-11-27,2020,3,Gemeinde,72,Winkel,49,186,26.35
+2025-11-27,2020,3,Gemeinde,81,Bachs,NULL,24,NULL
+2025-11-27,2020,3,Gemeinde,82,Boppelsen,15,63,23.81
+2025-11-27,2020,3,Gemeinde,83,Buchs (ZH),39,289,13.49
+2025-11-27,2020,3,Gemeinde,84,Dällikon,17,157,10.83
+2025-11-27,2020,3,Gemeinde,85,Dänikon,12,85,14.12
+2025-11-27,2020,3,Gemeinde,86,Dielsdorf,31,258,12.01
+2025-11-27,2020,3,Gemeinde,87,Hüttikon,NULL,27,NULL
+2025-11-27,2020,3,Gemeinde,88,Neerach,28,111,25.23
+2025-11-27,2020,3,Gemeinde,89,Niederglatt,28,230,12.17
+2025-11-27,2020,3,Gemeinde,90,Niederhasli,48,442,10.86
+2025-11-27,2020,3,Gemeinde,91,Niederweningen,33,171,19.29
+2025-11-27,2020,3,Gemeinde,92,Oberglatt,31,330,9.40
+2025-11-27,2020,3,Gemeinde,93,Oberweningen,19,94,20.22
+2025-11-27,2020,3,Gemeinde,94,Otelfingen,20,107,18.69
+2025-11-27,2020,3,Gemeinde,95,Regensberg,NULL,22,NULL
+2025-11-27,2020,3,Gemeinde,96,Regensdorf,73,800,9.13
+2025-11-27,2020,3,Gemeinde,97,Rümlang,23,288,7.98
+2025-11-27,2020,3,Gemeinde,98,Schleinikon,NULL,37,NULL
+2025-11-27,2020,3,Gemeinde,99,Schöfflisdorf,10,60,16.67
+2025-11-27,2020,3,Gemeinde,100,Stadel,11,102,10.78
+2025-11-27,2020,3,Gemeinde,101,Steinmaur,25,145,17.24
+2025-11-27,2020,3,Gemeinde,102,Weiach,6,57,10.53
+2025-11-27,2020,3,Gemeinde,111,Bäretswil,30,208,14.42
+2025-11-27,2020,3,Gemeinde,112,Bubikon,72,317,22.72
+2025-11-27,2020,3,Gemeinde,113,Dürnten,60,358,16.76
+2025-11-27,2020,3,Gemeinde,114,Fischenthal,9,105,8.57
+2025-11-27,2020,3,Gemeinde,115,Gossau (ZH),71,469,15.14
+2025-11-27,2020,3,Gemeinde,116,Grüningen,31,154,20.13
+2025-11-27,2020,3,Gemeinde,117,Hinwil,75,485,15.46
+2025-11-27,2020,3,Gemeinde,118,Rüti (ZH),69,481,14.34
+2025-11-27,2020,3,Gemeinde,119,Seegräben,15,57,26.32
+2025-11-27,2020,3,Gemeinde,120,Wald (ZH),42,403,10.42
+2025-11-27,2020,3,Gemeinde,121,Wetzikon (ZH),191,1063,17.97
+2025-11-27,2020,3,Gemeinde,131,Adliswil,120,572,20.97
+2025-11-27,2020,3,Gemeinde,135,Kilchberg (ZH),118,292,40.41
+2025-11-27,2020,3,Gemeinde,136,Langnau am Albis,77,325,23.69
+2025-11-27,2020,3,Gemeinde,137,Oberrieden,58,177,32.76
+2025-11-27,2020,3,Gemeinde,138,Richterswil,103,524,19.65
+2025-11-27,2020,3,Gemeinde,139,Rüschlikon,70,208,33.65
+2025-11-27,2020,3,Gemeinde,141,Thalwil,143,588,24.32
+2025-11-27,2020,3,Gemeinde,151,Erlenbach (ZH),95,243,39.09
+2025-11-27,2020,3,Gemeinde,152,Herrliberg,138,295,46.78
+2025-11-27,2020,3,Gemeinde,153,Hombrechtikon,76,392,19.39
+2025-11-27,2020,3,Gemeinde,154,Küsnacht (ZH),181,436,41.52
+2025-11-27,2020,3,Gemeinde,155,Männedorf,188,490,38.37
+2025-11-27,2020,3,Gemeinde,156,Meilen,198,515,38.44
+2025-11-27,2020,3,Gemeinde,157,Oetwil am See,29,195,14.88
+2025-11-27,2020,3,Gemeinde,158,Stäfa,198,593,33.39
+2025-11-27,2020,3,Gemeinde,159,Uetikon am See,98,323,30.34
+2025-11-27,2020,3,Gemeinde,160,Zumikon,81,199,40.70
+2025-11-27,2020,3,Gemeinde,161,Zollikon,175,438,39.95
+2025-11-27,2020,3,Gemeinde,172,Fehraltorf,27,228,11.85
+2025-11-27,2020,3,Gemeinde,173,Hittnau,32,187,17.11
+2025-11-27,2020,3,Gemeinde,176,Lindau,44,264,16.67
+2025-11-27,2020,3,Gemeinde,177,Pfäffikon,84,454,18.50
+2025-11-27,2020,3,Gemeinde,178,Russikon,32,164,19.51
+2025-11-27,2020,3,Gemeinde,180,Weisslingen,34,170,20.00
+2025-11-27,2020,3,Gemeinde,181,Wila,9,82,10.98
+2025-11-27,2020,3,Gemeinde,182,Wildberg,NULL,26,NULL
+2025-11-27,2020,3,Gemeinde,191,Dübendorf,177,1078,16.42
+2025-11-27,2020,3,Gemeinde,192,Egg,88,365,24.11
+2025-11-27,2020,3,Gemeinde,193,Fällanden,72,300,24.00
+2025-11-27,2020,3,Gemeinde,194,Greifensee,54,203,26.61
+2025-11-27,2020,3,Gemeinde,195,Maur,161,467,34.48
+2025-11-27,2020,3,Gemeinde,196,Mönchaltorf,33,169,19.52
+2025-11-27,2020,3,Gemeinde,197,Schwerzenbach,27,190,14.21
+2025-11-27,2020,3,Gemeinde,198,Uster,300,1347,22.27
+2025-11-27,2020,3,Gemeinde,199,Volketswil,90,765,11.77
+2025-11-27,2020,3,Gemeinde,200,Wangen-Brüttisellen,50,376,13.30
+2025-11-27,2020,3,Gemeinde,211,Altikon,NULL,31,NULL
+2025-11-27,2020,3,Gemeinde,213,Brütten,28,76,36.84
+2025-11-27,2020,3,Gemeinde,214,Dägerlen,NULL,50,NULL
+2025-11-27,2020,3,Gemeinde,215,Dättlikon,NULL,22,NULL
+2025-11-27,2020,3,Gemeinde,216,Dinhard,7,65,10.77
+2025-11-27,2020,3,Gemeinde,218,Ellikon an der Thur,NULL,47,NULL
+2025-11-27,2020,3,Gemeinde,219,Elsau,30,168,17.86
+2025-11-27,2020,3,Gemeinde,220,Hagenbuch,NULL,40,NULL
+2025-11-27,2020,3,Gemeinde,221,Hettlingen,70,223,31.39
+2025-11-27,2020,3,Gemeinde,223,Neftenbach,36,237,15.19
+2025-11-27,2020,3,Gemeinde,224,Pfungen,34,174,19.54
+2025-11-27,2020,3,Gemeinde,225,Rickenbach (ZH),24,130,18.46
+2025-11-27,2020,3,Gemeinde,226,Schlatt (ZH),NULL,33,NULL
+2025-11-27,2020,3,Gemeinde,227,Seuzach,48,279,17.21
+2025-11-27,2020,3,Gemeinde,228,Turbenthal,23,222,10.36
+2025-11-27,2020,3,Gemeinde,230,Winterthur,734,4078,18.00
+2025-11-27,2020,3,Gemeinde,231,Zell (ZH),29,276,10.51
+2025-11-27,2020,3,Gemeinde,241,Aesch (ZH),17,56,30.36
+2025-11-27,2020,3,Gemeinde,242,Birmensdorf (ZH),45,228,19.74
+2025-11-27,2020,3,Gemeinde,243,Dietikon,79,1092,7.23
+2025-11-27,2020,3,Gemeinde,244,Geroldswil,26,179,14.53
+2025-11-27,2020,3,Gemeinde,245,Oberengstringen,26,244,10.66
+2025-11-27,2020,3,Gemeinde,246,Oetwil an der Limmat,17,100,17.00
+2025-11-27,2020,3,Gemeinde,247,Schlieren,52,735,7.07
+2025-11-27,2020,3,Gemeinde,248,Uitikon,78,178,43.82
+2025-11-27,2020,3,Gemeinde,249,Unterengstringen,25,117,21.36
+2025-11-27,2020,3,Gemeinde,250,Urdorf,58,379,15.31
+2025-11-27,2020,3,Gemeinde,251,Weiningen (ZH),30,189,15.87
+2025-11-27,2020,3,Gemeinde,261,Zürich,2554,12058,21.18
+2025-11-27,2020,3,Gemeinde,291,Andelfingen,21,118,0.18
+2025-11-27,2020,3,Gemeinde,292,Stammheim,13,123,10.57
+2025-11-27,2020,3,Gemeinde,293,Wädenswil,203,978,20.76
+2025-11-27,2020,3,Gemeinde,294,Elgg,46,214,21.49
+2025-11-27,2020,3,Gemeinde,295,Horgen,185,870,21.26
+2025-11-27,2020,3,Gemeinde,296,Illnau-Effretikon,135,678,19.91
+2025-11-27,2020,3,Gemeinde,297,Bauma,28,208,13.46
+2025-11-27,2020,3,Gemeinde,298,Wiesendangen,65,273,23.81
+2025-11-27,2020,6,Raumplanungsregion,101,Zürich,33202,156754,21.18
+2025-11-27,2020,6,Raumplanungsregion,102,Glattal,998,6653,15.00
+2025-11-27,2020,6,Raumplanungsregion,103,Furttal,178,1528,11.65
+2025-11-27,2020,6,Raumplanungsregion,104,Limmattal,453,3497,12.95
+2025-11-27,2020,6,Raumplanungsregion,105,Knonaueramt,425,2226,19.09
+2025-11-27,2020,6,Raumplanungsregion,106,Zimmerberg,1077,4534,23.76
+2025-11-27,2020,6,Raumplanungsregion,107,Pfannenstiel,1545,4484,34.46
+2025-11-27,2020,6,Raumplanungsregion,108,Oberland,1215,6965,17.44
+2025-11-27,2020,6,Raumplanungsregion,109,Winterthur u.U.,6566,36296,18.09
+2025-11-27,2020,6,Raumplanungsregion,110,Weinland,186,1367,13.61
+2025-11-27,2020,6,Raumplanungsregion,111,Unterland,748,4986,15.00
+2025-11-27,2021,1,Kanton,1,Kanton Zürich,11067,56225,19.69
+2025-11-27,2021,2,Bezirk,101,Bezirk Affoltern,436,2207,19.76
+2025-11-27,2021,2,Bezirk,102,Bezirk Andelfingen,196,1370,14.30
+2025-11-27,2021,2,Bezirk,103,Bezirk Bülach,843,6034,13.97
+2025-11-27,2021,2,Bezirk,104,Bezirk Dielsdorf,490,3860,12.70
+2025-11-27,2021,2,Bezirk,105,Bezirk Hinwil,664,3976,16.70
+2025-11-27,2021,2,Bezirk,106,Bezirk Horgen,1096,4483,24.45
+2025-11-27,2021,2,Bezirk,107,Bezirk Meilen,1529,4118,37.13
+2025-11-27,2021,2,Bezirk,108,Bezirk Pfäffikon,421,2479,16.99
+2025-11-27,2021,2,Bezirk,109,Bezirk Uster,1027,5246,19.58
+2025-11-27,2021,2,Bezirk,110,Bezirk Winterthur,1205,6595,18.27
+2025-11-27,2021,2,Bezirk,111,Bezirk Dietikon,471,3523,13.37
+2025-11-27,2021,2,Bezirk,112,Bezirk Zürich,2689,12334,21.81
+2025-11-27,2021,3,Gemeinde,1,Aeugst am Albis,22,95,23.16
+2025-11-27,2021,3,Gemeinde,2,Affoltern am Albis,66,456,14.48
+2025-11-27,2021,3,Gemeinde,3,Bonstetten,56,245,22.86
+2025-11-27,2021,3,Gemeinde,4,Hausen am Albis,34,153,22.23
+2025-11-27,2021,3,Gemeinde,5,Hedingen,43,181,23.75
+2025-11-27,2021,3,Gemeinde,6,Kappel am Albis,NULL,44,NULL
+2025-11-27,2021,3,Gemeinde,7,Knonau,8,89,8.99
+2025-11-27,2021,3,Gemeinde,8,Maschwanden,NULL,23,NULL
+2025-11-27,2021,3,Gemeinde,9,Mettmenstetten,38,217,17.51
+2025-11-27,2021,3,Gemeinde,10,Obfelden,26,243,10.70
+2025-11-27,2021,3,Gemeinde,11,Ottenbach,12,102,11.76
+2025-11-27,2021,3,Gemeinde,12,Rifferswil,15,52,28.85
+2025-11-27,2021,3,Gemeinde,13,Stallikon,43,121,35.54
+2025-11-27,2021,3,Gemeinde,14,Wettswil am Albis,69,186,37.10
+2025-11-27,2021,3,Gemeinde,21,Adlikon,NULL,18,NULL
+2025-11-27,2021,3,Gemeinde,22,Benken (ZH),NULL,40,NULL
+2025-11-27,2021,3,Gemeinde,23,Berg am Irchel,NULL,18,NULL
+2025-11-27,2021,3,Gemeinde,24,Buch am Irchel,NULL,41,NULL
+2025-11-27,2021,3,Gemeinde,25,Dachsen,8,106,7.55
+2025-11-27,2021,3,Gemeinde,26,Dorf,NULL,39,NULL
+2025-11-27,2021,3,Gemeinde,27,Feuerthalen,5,136,3.68
+2025-11-27,2021,3,Gemeinde,28,Flaach,10,63,15.88
+2025-11-27,2021,3,Gemeinde,29,Flurlingen,6,76,7.89
+2025-11-27,2021,3,Gemeinde,30,Andelfingen,20,87,22.99
+2025-11-27,2021,3,Gemeinde,31,Henggart,27,130,20.77
+2025-11-27,2021,3,Gemeinde,32,Humlikon,NULL,17,NULL
+2025-11-27,2021,3,Gemeinde,33,Kleinandelfingen,12,70,17.15
+2025-11-27,2021,3,Gemeinde,34,Laufen-Uhwiesen,6,77,7.79
+2025-11-27,2021,3,Gemeinde,35,Marthalen,4,60,6.67
+2025-11-27,2021,3,Gemeinde,37,Ossingen,17,91,18.68
+2025-11-27,2021,3,Gemeinde,38,Rheinau,NULL,49,NULL
+2025-11-27,2021,3,Gemeinde,39,Thalheim an der Thur,NULL,33,NULL
+2025-11-27,2021,3,Gemeinde,40,Trüllikon,NULL,42,NULL
+2025-11-27,2021,3,Gemeinde,41,Truttikon,NULL,29,NULL
+2025-11-27,2021,3,Gemeinde,43,Volken,NULL,19,NULL
+2025-11-27,2021,3,Gemeinde,51,Bachenbülach,50,173,28.91
+2025-11-27,2021,3,Gemeinde,52,Bassersdorf,78,547,14.26
+2025-11-27,2021,3,Gemeinde,53,Bülach,133,870,15.28
+2025-11-27,2021,3,Gemeinde,54,Dietlikon,52,309,16.82
+2025-11-27,2021,3,Gemeinde,55,Eglisau,44,202,21.79
+2025-11-27,2021,3,Gemeinde,56,Embrach,47,412,11.41
+2025-11-27,2021,3,Gemeinde,57,Freienstein-Teufen,20,121,16.53
+2025-11-27,2021,3,Gemeinde,58,Glattfelden,29,195,14.87
+2025-11-27,2021,3,Gemeinde,59,Hochfelden,10,100,10.00
+2025-11-27,2021,3,Gemeinde,60,Höri,6,109,5.50
+2025-11-27,2021,3,Gemeinde,61,Hüntwangen,NULL,39,NULL
+2025-11-27,2021,3,Gemeinde,62,Kloten,75,801,9.36
+2025-11-27,2021,3,Gemeinde,63,Lufingen,28,97,28.87
+2025-11-27,2021,3,Gemeinde,64,Nürensdorf,27,203,13.30
+2025-11-27,2021,3,Gemeinde,65,Oberembrach,NULL,36,NULL
+2025-11-27,2021,3,Gemeinde,66,Opfikon,57,668,8.53
+2025-11-27,2021,3,Gemeinde,67,Rafz,24,194,12.37
+2025-11-27,2021,3,Gemeinde,68,Rorbas,14,124,11.29
+2025-11-27,2021,3,Gemeinde,69,Wallisellen,83,581,14.29
+2025-11-27,2021,3,Gemeinde,70,Wasterkingen,NULL,21,NULL
+2025-11-27,2021,3,Gemeinde,71,Wil (ZH),10,56,17.86
+2025-11-27,2021,3,Gemeinde,72,Winkel,40,176,22.73
+2025-11-27,2021,3,Gemeinde,81,Bachs,NULL,23,NULL
+2025-11-27,2021,3,Gemeinde,82,Boppelsen,12,69,17.39
+2025-11-27,2021,3,Gemeinde,83,Buchs (ZH),37,313,11.82
+2025-11-27,2021,3,Gemeinde,84,Dällikon,16,153,10.46
+2025-11-27,2021,3,Gemeinde,85,Dänikon,12,83,14.46
+2025-11-27,2021,3,Gemeinde,86,Dielsdorf,28,255,10.98
+2025-11-27,2021,3,Gemeinde,87,Hüttikon,NULL,30,NULL
+2025-11-27,2021,3,Gemeinde,88,Neerach,31,116,26.72
+2025-11-27,2021,3,Gemeinde,89,Niederglatt,27,228,11.85
+2025-11-27,2021,3,Gemeinde,90,Niederhasli,43,428,10.05
+2025-11-27,2021,3,Gemeinde,91,Niederweningen,26,157,16.56
+2025-11-27,2021,3,Gemeinde,92,Oberglatt,35,323,10.84
+2025-11-27,2021,3,Gemeinde,93,Oberweningen,21,86,24.42
+2025-11-27,2021,3,Gemeinde,94,Otelfingen,26,121,21.49
+2025-11-27,2021,3,Gemeinde,95,Regensberg,NULL,23,NULL
+2025-11-27,2021,3,Gemeinde,96,Regensdorf,80,784,10.20
+2025-11-27,2021,3,Gemeinde,97,Rümlang,23,268,8.59
+2025-11-27,2021,3,Gemeinde,98,Schleinikon,NULL,37,NULL
+2025-11-27,2021,3,Gemeinde,99,Schöfflisdorf,8,55,14.55
+2025-11-27,2021,3,Gemeinde,100,Stadel,15,115,13.04
+2025-11-27,2021,3,Gemeinde,101,Steinmaur,29,133,21.80
+2025-11-27,2021,3,Gemeinde,102,Weiach,4,60,6.67
+2025-11-27,2021,3,Gemeinde,111,Bäretswil,26,211,12.32
+2025-11-27,2021,3,Gemeinde,112,Bubikon,73,314,23.25
+2025-11-27,2021,3,Gemeinde,113,Dürnten,62,355,17.47
+2025-11-27,2021,3,Gemeinde,114,Fischenthal,10,112,8.93
+2025-11-27,2021,3,Gemeinde,115,Gossau (ZH),76,465,16.34
+2025-11-27,2021,3,Gemeinde,116,Grüningen,31,141,21.99
+2025-11-27,2021,3,Gemeinde,117,Hinwil,78,448,17.41
+2025-11-27,2021,3,Gemeinde,118,Rüti (ZH),72,476,15.13
+2025-11-27,2021,3,Gemeinde,119,Seegräben,NULL,47,NULL
+2025-11-27,2021,3,Gemeinde,120,Wald (ZH),44,398,11.06
+2025-11-27,2021,3,Gemeinde,121,Wetzikon (ZH),180,1009,17.83
+2025-11-27,2021,3,Gemeinde,131,Adliswil,128,585,21.88
+2025-11-27,2021,3,Gemeinde,135,Kilchberg (ZH),110,277,39.71
+2025-11-27,2021,3,Gemeinde,136,Langnau am Albis,63,323,19.51
+2025-11-27,2021,3,Gemeinde,137,Oberrieden,57,174,32.76
+2025-11-27,2021,3,Gemeinde,138,Richterswil,109,526,20.72
+2025-11-27,2021,3,Gemeinde,139,Rüschlikon,70,203,34.48
+2025-11-27,2021,3,Gemeinde,141,Thalwil,158,590,26.78
+2025-11-27,2021,3,Gemeinde,151,Erlenbach (ZH),107,251,42.63
+2025-11-27,2021,3,Gemeinde,152,Herrliberg,133,286,46.50
+2025-11-27,2021,3,Gemeinde,153,Hombrechtikon,75,395,18.99
+2025-11-27,2021,3,Gemeinde,154,Küsnacht (ZH),200,475,42.10
+2025-11-27,2021,3,Gemeinde,155,Männedorf,200,481,41.58
+2025-11-27,2021,3,Gemeinde,156,Meilen,209,495,42.22
+2025-11-27,2021,3,Gemeinde,157,Oetwil am See,23,197,11.68
+2025-11-27,2021,3,Gemeinde,158,Stäfa,196,578,33.91
+2025-11-27,2021,3,Gemeinde,159,Uetikon am See,101,329,30.70
+2025-11-27,2021,3,Gemeinde,160,Zumikon,90,215,41.87
+2025-11-27,2021,3,Gemeinde,161,Zollikon,195,416,46.87
+2025-11-27,2021,3,Gemeinde,172,Fehraltorf,33,246,13.42
+2025-11-27,2021,3,Gemeinde,173,Hittnau,37,169,21.89
+2025-11-27,2021,3,Gemeinde,176,Lindau,43,241,17.84
+2025-11-27,2021,3,Gemeinde,177,Pfäffikon,89,448,19.87
+2025-11-27,2021,3,Gemeinde,178,Russikon,31,181,17.13
+2025-11-27,2021,3,Gemeinde,180,Weisslingen,27,159,16.98
+2025-11-27,2021,3,Gemeinde,181,Wila,6,85,7.06
+2025-11-27,2021,3,Gemeinde,182,Wildberg,NULL,34,NULL
+2025-11-27,2021,3,Gemeinde,191,Dübendorf,179,1060,16.89
+2025-11-27,2021,3,Gemeinde,192,Egg,87,342,25.44
+2025-11-27,2021,3,Gemeinde,193,Fällanden,74,313,23.64
+2025-11-27,2021,3,Gemeinde,194,Greifensee,49,204,24.02
+2025-11-27,2021,3,Gemeinde,195,Maur,141,462,30.52
+2025-11-27,2021,3,Gemeinde,196,Mönchaltorf,28,165,16.97
+2025-11-27,2021,3,Gemeinde,197,Schwerzenbach,21,195,10.77
+2025-11-27,2021,3,Gemeinde,198,Uster,300,1362,22.02
+2025-11-27,2021,3,Gemeinde,199,Volketswil,95,767,12.38
+2025-11-27,2021,3,Gemeinde,200,Wangen-Brüttisellen,53,376,14.10
+2025-11-27,2021,3,Gemeinde,211,Altikon,NULL,35,NULL
+2025-11-27,2021,3,Gemeinde,213,Brütten,30,74,40.54
+2025-11-27,2021,3,Gemeinde,214,Dägerlen,NULL,50,NULL
+2025-11-27,2021,3,Gemeinde,215,Dättlikon,NULL,26,NULL
+2025-11-27,2021,3,Gemeinde,216,Dinhard,7,66,10.61
+2025-11-27,2021,3,Gemeinde,218,Ellikon an der Thur,NULL,40,NULL
+2025-11-27,2021,3,Gemeinde,219,Elsau,29,171,16.95
+2025-11-27,2021,3,Gemeinde,220,Hagenbuch,NULL,27,NULL
+2025-11-27,2021,3,Gemeinde,221,Hettlingen,70,212,33.02
+2025-11-27,2021,3,Gemeinde,223,Neftenbach,37,233,15.88
+2025-11-27,2021,3,Gemeinde,224,Pfungen,28,192,14.58
+2025-11-27,2021,3,Gemeinde,225,Rickenbach (ZH),23,124,18.55
+2025-11-27,2021,3,Gemeinde,226,Schlatt (ZH),NULL,32,NULL
+2025-11-27,2021,3,Gemeinde,227,Seuzach,50,264,18.94
+2025-11-27,2021,3,Gemeinde,228,Turbenthal,27,212,12.73
+2025-11-27,2021,3,Gemeinde,230,Winterthur,739,4083,18.10
+2025-11-27,2021,3,Gemeinde,231,Zell (ZH),30,271,11.07
+2025-11-27,2021,3,Gemeinde,241,Aesch (ZH),19,59,32.20
+2025-11-27,2021,3,Gemeinde,242,Birmensdorf (ZH),51,218,23.39
+2025-11-27,2021,3,Gemeinde,243,Dietikon,84,1080,7.78
+2025-11-27,2021,3,Gemeinde,244,Geroldswil,23,190,12.11
+2025-11-27,2021,3,Gemeinde,245,Oberengstringen,22,257,8.56
+2025-11-27,2021,3,Gemeinde,246,Oetwil an der Limmat,17,88,19.32
+2025-11-27,2021,3,Gemeinde,247,Schlieren,56,741,7.56
+2025-11-27,2021,3,Gemeinde,248,Uitikon,89,186,47.85
+2025-11-27,2021,3,Gemeinde,249,Unterengstringen,23,126,18.26
+2025-11-27,2021,3,Gemeinde,250,Urdorf,53,378,14.02
+2025-11-27,2021,3,Gemeinde,251,Weiningen (ZH),34,200,17.00
+2025-11-27,2021,3,Gemeinde,261,Zürich,2689,12334,21.81
+2025-11-27,2021,3,Gemeinde,291,Andelfingen,27,122,0.22
+2025-11-27,2021,3,Gemeinde,292,Stammheim,18,129,13.95
+2025-11-27,2021,3,Gemeinde,293,Wädenswil,215,947,22.70
+2025-11-27,2021,3,Gemeinde,294,Elgg,45,213,21.13
+2025-11-27,2021,3,Gemeinde,295,Horgen,186,858,21.68
+2025-11-27,2021,3,Gemeinde,296,Illnau-Effretikon,126,715,17.62
+2025-11-27,2021,3,Gemeinde,297,Bauma,26,201,12.94
+2025-11-27,2021,3,Gemeinde,298,Wiesendangen,53,270,19.63
+2025-11-27,2021,6,Raumplanungsregion,101,Zürich,34957,160342,21.81
+2025-11-27,2021,6,Raumplanungsregion,102,Glattal,1007,6754,14.91
+2025-11-27,2021,6,Raumplanungsregion,103,Furttal,186,1553,11.98
+2025-11-27,2021,6,Raumplanungsregion,104,Limmattal,471,3523,13.37
+2025-11-27,2021,6,Raumplanungsregion,105,Knonaueramt,436,2207,19.76
+2025-11-27,2021,6,Raumplanungsregion,106,Zimmerberg,1096,4483,24.45
+2025-11-27,2021,6,Raumplanungsregion,107,Pfannenstiel,1616,4460,36.23
+2025-11-27,2021,6,Raumplanungsregion,108,Oberland,1217,6867,17.72
+2025-11-27,2021,6,Raumplanungsregion,109,Winterthur u.U.,6574,36291,18.11
+2025-11-27,2021,6,Raumplanungsregion,110,Weinland,196,1370,14.30
+2025-11-27,2021,6,Raumplanungsregion,111,Unterland,752,4964,15.15
+2025-11-27,2022,1,Kanton,1,Kanton Zürich,11260,56367,19.98
+2025-11-27,2022,2,Bezirk,101,Bezirk Affoltern,438,2190,20.00
+2025-11-27,2022,2,Bezirk,102,Bezirk Andelfingen,205,1352,15.16
+2025-11-27,2022,2,Bezirk,103,Bezirk Bülach,850,6122,13.88
+2025-11-27,2022,2,Bezirk,104,Bezirk Dielsdorf,488,3847,12.69
+2025-11-27,2022,2,Bezirk,105,Bezirk Hinwil,630,3957,15.92
+2025-11-27,2022,2,Bezirk,106,Bezirk Horgen,1062,4486,23.67
+2025-11-27,2022,2,Bezirk,107,Bezirk Meilen,1598,4150,38.50
+2025-11-27,2022,2,Bezirk,108,Bezirk Pfäffikon,426,2467,17.27
+2025-11-27,2022,2,Bezirk,109,Bezirk Uster,1072,5304,20.21
+2025-11-27,2022,2,Bezirk,110,Bezirk Winterthur,1211,6507,18.61
+2025-11-27,2022,2,Bezirk,111,Bezirk Dietikon,484,3497,13.84
+2025-11-27,2022,2,Bezirk,112,Bezirk Zürich,2796,12488,22.39
+2025-11-27,2022,3,Gemeinde,1,Aeugst am Albis,26,91,28.57
+2025-11-27,2022,3,Gemeinde,2,Affoltern am Albis,75,447,16.78
+2025-11-27,2022,3,Gemeinde,3,Bonstetten,52,237,21.94
+2025-11-27,2022,3,Gemeinde,4,Hausen am Albis,35,156,22.43
+2025-11-27,2022,3,Gemeinde,5,Hedingen,47,180,26.11
+2025-11-27,2022,3,Gemeinde,6,Kappel am Albis,NULL,44,NULL
+2025-11-27,2022,3,Gemeinde,7,Knonau,9,78,11.54
+2025-11-27,2022,3,Gemeinde,8,Maschwanden,NULL,18,NULL
+2025-11-27,2022,3,Gemeinde,9,Mettmenstetten,36,212,16.99
+2025-11-27,2022,3,Gemeinde,10,Obfelden,24,243,9.88
+2025-11-27,2022,3,Gemeinde,11,Ottenbach,12,112,10.71
+2025-11-27,2022,3,Gemeinde,12,Rifferswil,NULL,48,NULL
+2025-11-27,2022,3,Gemeinde,13,Stallikon,36,126,28.57
+2025-11-27,2022,3,Gemeinde,14,Wettswil am Albis,66,198,33.34
+2025-11-27,2022,3,Gemeinde,21,Adlikon,NULL,17,NULL
+2025-11-27,2022,3,Gemeinde,22,Benken (ZH),NULL,42,NULL
+2025-11-27,2022,3,Gemeinde,23,Berg am Irchel,NULL,13,NULL
+2025-11-27,2022,3,Gemeinde,24,Buch am Irchel,NULL,49,NULL
+2025-11-27,2022,3,Gemeinde,25,Dachsen,6,96,6.25
+2025-11-27,2022,3,Gemeinde,26,Dorf,NULL,38,NULL
+2025-11-27,2022,3,Gemeinde,27,Feuerthalen,6,134,4.48
+2025-11-27,2022,3,Gemeinde,28,Flaach,14,58,24.13
+2025-11-27,2022,3,Gemeinde,29,Flurlingen,6,70,8.57
+2025-11-27,2022,3,Gemeinde,30,Andelfingen,27,92,29.35
+2025-11-27,2022,3,Gemeinde,31,Henggart,23,126,18.25
+2025-11-27,2022,3,Gemeinde,32,Humlikon,NULL,19,NULL
+2025-11-27,2022,3,Gemeinde,33,Kleinandelfingen,10,82,12.20
+2025-11-27,2022,3,Gemeinde,34,Laufen-Uhwiesen,5,80,6.25
+2025-11-27,2022,3,Gemeinde,35,Marthalen,6,69,8.70
+2025-11-27,2022,3,Gemeinde,37,Ossingen,17,83,20.48
+2025-11-27,2022,3,Gemeinde,38,Rheinau,NULL,43,NULL
+2025-11-27,2022,3,Gemeinde,39,Thalheim an der Thur,NULL,37,NULL
+2025-11-27,2022,3,Gemeinde,40,Trüllikon,NULL,44,NULL
+2025-11-27,2022,3,Gemeinde,41,Truttikon,NULL,25,NULL
+2025-11-27,2022,3,Gemeinde,43,Volken,NULL,19,NULL
+2025-11-27,2022,3,Gemeinde,51,Bachenbülach,41,179,22.91
+2025-11-27,2022,3,Gemeinde,52,Bassersdorf,85,543,15.66
+2025-11-27,2022,3,Gemeinde,53,Bülach,122,871,14.00
+2025-11-27,2022,3,Gemeinde,54,Dietlikon,59,314,18.79
+2025-11-27,2022,3,Gemeinde,55,Eglisau,45,212,21.22
+2025-11-27,2022,3,Gemeinde,56,Embrach,45,435,10.34
+2025-11-27,2022,3,Gemeinde,57,Freienstein-Teufen,14,109,12.85
+2025-11-27,2022,3,Gemeinde,58,Glattfelden,33,188,17.56
+2025-11-27,2022,3,Gemeinde,59,Hochfelden,15,95,15.79
+2025-11-27,2022,3,Gemeinde,60,Höri,7,114,6.14
+2025-11-27,2022,3,Gemeinde,61,Hüntwangen,NULL,42,NULL
+2025-11-27,2022,3,Gemeinde,62,Kloten,76,830,9.15
+2025-11-27,2022,3,Gemeinde,63,Lufingen,26,103,25.24
+2025-11-27,2022,3,Gemeinde,64,Nürensdorf,27,221,12.21
+2025-11-27,2022,3,Gemeinde,65,Oberembrach,NULL,36,NULL
+2025-11-27,2022,3,Gemeinde,66,Opfikon,58,688,8.43
+2025-11-27,2022,3,Gemeinde,67,Rafz,23,198,11.62
+2025-11-27,2022,3,Gemeinde,68,Rorbas,11,136,8.09
+2025-11-27,2022,3,Gemeinde,69,Wallisellen,95,569,16.69
+2025-11-27,2022,3,Gemeinde,70,Wasterkingen,NULL,22,NULL
+2025-11-27,2022,3,Gemeinde,71,Wil (ZH),16,61,26.23
+2025-11-27,2022,3,Gemeinde,72,Winkel,36,156,23.08
+2025-11-27,2022,3,Gemeinde,81,Bachs,NULL,21,NULL
+2025-11-27,2022,3,Gemeinde,82,Boppelsen,11,70,15.71
+2025-11-27,2022,3,Gemeinde,83,Buchs (ZH),47,301,15.62
+2025-11-27,2022,3,Gemeinde,84,Dällikon,22,168,13.09
+2025-11-27,2022,3,Gemeinde,85,Dänikon,10,87,11.49
+2025-11-27,2022,3,Gemeinde,86,Dielsdorf,31,247,12.55
+2025-11-27,2022,3,Gemeinde,87,Hüttikon,NULL,30,NULL
+2025-11-27,2022,3,Gemeinde,88,Neerach,34,110,30.91
+2025-11-27,2022,3,Gemeinde,89,Niederglatt,22,229,9.61
+2025-11-27,2022,3,Gemeinde,90,Niederhasli,43,430,10.00
+2025-11-27,2022,3,Gemeinde,91,Niederweningen,21,149,14.09
+2025-11-27,2022,3,Gemeinde,92,Oberglatt,36,327,11.01
+2025-11-27,2022,3,Gemeinde,93,Oberweningen,21,89,23.60
+2025-11-27,2022,3,Gemeinde,94,Otelfingen,28,119,23.53
+2025-11-27,2022,3,Gemeinde,95,Regensberg,NULL,20,NULL
+2025-11-27,2022,3,Gemeinde,96,Regensdorf,72,773,9.32
+2025-11-27,2022,3,Gemeinde,97,Rümlang,23,290,7.93
+2025-11-27,2022,3,Gemeinde,98,Schleinikon,NULL,32,NULL
+2025-11-27,2022,3,Gemeinde,99,Schöfflisdorf,10,56,17.86
+2025-11-27,2022,3,Gemeinde,100,Stadel,18,109,16.52
+2025-11-27,2022,3,Gemeinde,101,Steinmaur,19,126,15.08
+2025-11-27,2022,3,Gemeinde,102,Weiach,5,64,7.81
+2025-11-27,2022,3,Gemeinde,111,Bäretswil,29,190,15.26
+2025-11-27,2022,3,Gemeinde,112,Bubikon,73,316,23.11
+2025-11-27,2022,3,Gemeinde,113,Dürnten,55,350,15.72
+2025-11-27,2022,3,Gemeinde,114,Fischenthal,9,113,7.96
+2025-11-27,2022,3,Gemeinde,115,Gossau (ZH),82,460,17.83
+2025-11-27,2022,3,Gemeinde,116,Grüningen,33,146,22.60
+2025-11-27,2022,3,Gemeinde,117,Hinwil,72,440,16.37
+2025-11-27,2022,3,Gemeinde,118,Rüti (ZH),64,500,12.80
+2025-11-27,2022,3,Gemeinde,119,Seegräben,17,52,32.69
+2025-11-27,2022,3,Gemeinde,120,Wald (ZH),43,395,10.89
+2025-11-27,2022,3,Gemeinde,121,Wetzikon (ZH),153,995,15.37
+2025-11-27,2022,3,Gemeinde,131,Adliswil,134,596,22.49
+2025-11-27,2022,3,Gemeinde,135,Kilchberg (ZH),102,284,35.91
+2025-11-27,2022,3,Gemeinde,136,Langnau am Albis,66,326,20.25
+2025-11-27,2022,3,Gemeinde,137,Oberrieden,62,176,35.23
+2025-11-27,2022,3,Gemeinde,138,Richterswil,97,547,17.74
+2025-11-27,2022,3,Gemeinde,139,Rüschlikon,70,201,34.83
+2025-11-27,2022,3,Gemeinde,141,Thalwil,153,581,26.34
+2025-11-27,2022,3,Gemeinde,151,Erlenbach (ZH),105,236,44.49
+2025-11-27,2022,3,Gemeinde,152,Herrliberg,130,281,46.27
+2025-11-27,2022,3,Gemeinde,153,Hombrechtikon,76,381,19.95
+2025-11-27,2022,3,Gemeinde,154,Küsnacht (ZH),220,484,45.45
+2025-11-27,2022,3,Gemeinde,155,Männedorf,209,503,41.55
+2025-11-27,2022,3,Gemeinde,156,Meilen,229,511,44.81
+2025-11-27,2022,3,Gemeinde,157,Oetwil am See,19,203,9.36
+2025-11-27,2022,3,Gemeinde,158,Stäfa,210,584,35.96
+2025-11-27,2022,3,Gemeinde,159,Uetikon am See,95,308,30.84
+2025-11-27,2022,3,Gemeinde,160,Zumikon,98,225,43.55
+2025-11-27,2022,3,Gemeinde,161,Zollikon,207,434,47.70
+2025-11-27,2022,3,Gemeinde,172,Fehraltorf,40,236,16.95
+2025-11-27,2022,3,Gemeinde,173,Hittnau,38,176,21.59
+2025-11-27,2022,3,Gemeinde,176,Lindau,41,250,16.40
+2025-11-27,2022,3,Gemeinde,177,Pfäffikon,92,437,21.05
+2025-11-27,2022,3,Gemeinde,178,Russikon,29,182,15.93
+2025-11-27,2022,3,Gemeinde,180,Weisslingen,27,155,17.42
+2025-11-27,2022,3,Gemeinde,181,Wila,7,77,9.09
+2025-11-27,2022,3,Gemeinde,182,Wildberg,NULL,35,NULL
+2025-11-27,2022,3,Gemeinde,191,Dübendorf,190,1075,17.67
+2025-11-27,2022,3,Gemeinde,192,Egg,90,335,26.87
+2025-11-27,2022,3,Gemeinde,193,Fällanden,84,342,24.56
+2025-11-27,2022,3,Gemeinde,194,Greifensee,52,220,23.63
+2025-11-27,2022,3,Gemeinde,195,Maur,138,457,30.20
+2025-11-27,2022,3,Gemeinde,196,Mönchaltorf,28,164,17.07
+2025-11-27,2022,3,Gemeinde,197,Schwerzenbach,20,195,10.25
+2025-11-27,2022,3,Gemeinde,198,Uster,320,1375,23.27
+2025-11-27,2022,3,Gemeinde,199,Volketswil,95,766,12.40
+2025-11-27,2022,3,Gemeinde,200,Wangen-Brüttisellen,55,375,14.66
+2025-11-27,2022,3,Gemeinde,211,Altikon,NULL,34,NULL
+2025-11-27,2022,3,Gemeinde,213,Brütten,26,66,39.39
+2025-11-27,2022,3,Gemeinde,214,Dägerlen,14,57,24.56
+2025-11-27,2022,3,Gemeinde,215,Dättlikon,NULL,32,NULL
+2025-11-27,2022,3,Gemeinde,216,Dinhard,8,59,13.55
+2025-11-27,2022,3,Gemeinde,218,Ellikon an der Thur,NULL,36,NULL
+2025-11-27,2022,3,Gemeinde,219,Elsau,33,157,21.02
+2025-11-27,2022,3,Gemeinde,220,Hagenbuch,NULL,29,NULL
+2025-11-27,2022,3,Gemeinde,221,Hettlingen,64,189,33.87
+2025-11-27,2022,3,Gemeinde,223,Neftenbach,32,227,14.10
+2025-11-27,2022,3,Gemeinde,224,Pfungen,28,184,15.22
+2025-11-27,2022,3,Gemeinde,225,Rickenbach (ZH),18,124,14.52
+2025-11-27,2022,3,Gemeinde,226,Schlatt (ZH),NULL,32,NULL
+2025-11-27,2022,3,Gemeinde,227,Seuzach,47,247,19.02
+2025-11-27,2022,3,Gemeinde,228,Turbenthal,23,195,11.80
+2025-11-27,2022,3,Gemeinde,230,Winterthur,770,4121,18.69
+2025-11-27,2022,3,Gemeinde,231,Zell (ZH),34,263,12.93
+2025-11-27,2022,3,Gemeinde,241,Aesch (ZH),17,55,30.91
+2025-11-27,2022,3,Gemeinde,242,Birmensdorf (ZH),56,235,23.83
+2025-11-27,2022,3,Gemeinde,243,Dietikon,93,1073,8.67
+2025-11-27,2022,3,Gemeinde,244,Geroldswil,24,187,12.83
+2025-11-27,2022,3,Gemeinde,245,Oberengstringen,21,254,8.26
+2025-11-27,2022,3,Gemeinde,246,Oetwil an der Limmat,20,86,23.25
+2025-11-27,2022,3,Gemeinde,247,Schlieren,56,715,7.83
+2025-11-27,2022,3,Gemeinde,248,Uitikon,92,177,51.98
+2025-11-27,2022,3,Gemeinde,249,Unterengstringen,22,136,16.18
+2025-11-27,2022,3,Gemeinde,250,Urdorf,48,374,12.83
+2025-11-27,2022,3,Gemeinde,251,Weiningen (ZH),35,205,17.08
+2025-11-27,2022,3,Gemeinde,261,Zürich,2796,12488,22.39
+2025-11-27,2022,3,Gemeinde,291,Andelfingen,37,128,0.29
+2025-11-27,2022,3,Gemeinde,292,Stammheim,18,116,15.52
+2025-11-27,2022,3,Gemeinde,293,Wädenswil,194,938,20.68
+2025-11-27,2022,3,Gemeinde,294,Elgg,45,196,22.96
+2025-11-27,2022,3,Gemeinde,295,Horgen,184,837,21.99
+2025-11-27,2022,3,Gemeinde,296,Illnau-Effretikon,124,709,17.49
+2025-11-27,2022,3,Gemeinde,297,Bauma,26,210,12.38
+2025-11-27,2022,3,Gemeinde,298,Wiesendangen,49,259,18.92
+2025-11-27,2022,6,Raumplanungsregion,101,Zürich,36348,162344,22.39
+2025-11-27,2022,6,Raumplanungsregion,102,Glattal,1057,6885,15.35
+2025-11-27,2022,6,Raumplanungsregion,103,Furttal,193,1548,12.47
+2025-11-27,2022,6,Raumplanungsregion,104,Limmattal,484,3497,13.84
+2025-11-27,2022,6,Raumplanungsregion,105,Knonaueramt,438,2190,20.00
+2025-11-27,2022,6,Raumplanungsregion,106,Zimmerberg,1062,4486,23.67
+2025-11-27,2022,6,Raumplanungsregion,107,Pfannenstiel,1688,4485,37.64
+2025-11-27,2022,6,Raumplanungsregion,108,Oberland,1212,6849,17.69
+2025-11-27,2022,6,Raumplanungsregion,109,Winterthur u.U.,6793,36468,18.63
+2025-11-27,2022,6,Raumplanungsregion,110,Weinland,205,1352,15.16
+2025-11-27,2022,6,Raumplanungsregion,111,Unterland,722,4966,14.54
+2025-11-27,2023,1,Kanton,1,Kanton Zürich,11511,56790,20.27
+2025-11-27,2023,2,Bezirk,101,Bezirk Affoltern,468,2247,20.82
+2025-11-27,2023,2,Bezirk,102,Bezirk Andelfingen,205,1365,15.02
+2025-11-27,2023,2,Bezirk,103,Bezirk Bülach,850,6213,13.68
+2025-11-27,2023,2,Bezirk,104,Bezirk Dielsdorf,480,3852,12.46
+2025-11-27,2023,2,Bezirk,105,Bezirk Hinwil,603,3875,15.56
+2025-11-27,2023,2,Bezirk,106,Bezirk Horgen,1054,4477,23.55
+2025-11-27,2023,2,Bezirk,107,Bezirk Meilen,1673,4223,39.62
+2025-11-27,2023,2,Bezirk,108,Bezirk Pfäffikon,412,2457,16.77
+2025-11-27,2023,2,Bezirk,109,Bezirk Uster,1082,5299,20.42
+2025-11-27,2023,2,Bezirk,110,Bezirk Winterthur,1274,6595,19.32
+2025-11-27,2023,2,Bezirk,111,Bezirk Dietikon,497,3464,14.35
+2025-11-27,2023,2,Bezirk,112,Bezirk Zürich,2913,12723,22.90
+2025-11-27,2023,3,Gemeinde,1,Aeugst am Albis,22,77,28.57
+2025-11-27,2023,3,Gemeinde,2,Affoltern am Albis,67,468,14.32
+2025-11-27,2023,3,Gemeinde,3,Bonstetten,61,247,24.70
+2025-11-27,2023,3,Gemeinde,4,Hausen am Albis,34,158,21.52
+2025-11-27,2023,3,Gemeinde,5,Hedingen,53,188,28.19
+2025-11-27,2023,3,Gemeinde,6,Kappel am Albis,NULL,50,NULL
+2025-11-27,2023,3,Gemeinde,7,Knonau,11,88,12.50
+2025-11-27,2023,3,Gemeinde,8,Maschwanden,NULL,17,NULL
+2025-11-27,2023,3,Gemeinde,9,Mettmenstetten,32,206,15.53
+2025-11-27,2023,3,Gemeinde,10,Obfelden,32,258,12.41
+2025-11-27,2023,3,Gemeinde,11,Ottenbach,18,108,16.67
+2025-11-27,2023,3,Gemeinde,12,Rifferswil,NULL,49,NULL
+2025-11-27,2023,3,Gemeinde,13,Stallikon,36,128,28.12
+2025-11-27,2023,3,Gemeinde,14,Wettswil am Albis,81,205,39.52
+2025-11-27,2023,3,Gemeinde,22,Benken (ZH),NULL,41,NULL
+2025-11-27,2023,3,Gemeinde,23,Berg am Irchel,NULL,14,NULL
+2025-11-27,2023,3,Gemeinde,24,Buch am Irchel,9,51,17.65
+2025-11-27,2023,3,Gemeinde,25,Dachsen,7,103,6.80
+2025-11-27,2023,3,Gemeinde,26,Dorf,NULL,37,NULL
+2025-11-27,2023,3,Gemeinde,27,Feuerthalen,5,128,3.91
+2025-11-27,2023,3,Gemeinde,28,Flaach,15,62,24.19
+2025-11-27,2023,3,Gemeinde,29,Flurlingen,5,65,7.69
+2025-11-27,2023,3,Gemeinde,31,Henggart,19,117,16.23
+2025-11-27,2023,3,Gemeinde,33,Kleinandelfingen,12,77,15.58
+2025-11-27,2023,3,Gemeinde,34,Laufen-Uhwiesen,6,78,7.69
+2025-11-27,2023,3,Gemeinde,35,Marthalen,9,73,12.33
+2025-11-27,2023,3,Gemeinde,37,Ossingen,12,77,15.58
+2025-11-27,2023,3,Gemeinde,38,Rheinau,NULL,46,NULL
+2025-11-27,2023,3,Gemeinde,39,Thalheim an der Thur,NULL,50,NULL
+2025-11-27,2023,3,Gemeinde,40,Trüllikon,NULL,49,NULL
+2025-11-27,2023,3,Gemeinde,41,Truttikon,NULL,26,NULL
+2025-11-27,2023,3,Gemeinde,43,Volken,NULL,20,NULL
+2025-11-27,2023,3,Gemeinde,51,Bachenbülach,36,173,20.81
+2025-11-27,2023,3,Gemeinde,52,Bassersdorf,84,556,15.11
+2025-11-27,2023,3,Gemeinde,53,Bülach,132,887,14.88
+2025-11-27,2023,3,Gemeinde,54,Dietlikon,62,297,20.87
+2025-11-27,2023,3,Gemeinde,55,Eglisau,52,213,24.41
+2025-11-27,2023,3,Gemeinde,56,Embrach,47,460,10.21
+2025-11-27,2023,3,Gemeinde,57,Freienstein-Teufen,15,113,13.27
+2025-11-27,2023,3,Gemeinde,58,Glattfelden,32,200,16.00
+2025-11-27,2023,3,Gemeinde,59,Hochfelden,14,84,16.67
+2025-11-27,2023,3,Gemeinde,60,Höri,7,125,5.60
+2025-11-27,2023,3,Gemeinde,61,Hüntwangen,9,52,17.31
+2025-11-27,2023,3,Gemeinde,62,Kloten,71,825,8.60
+2025-11-27,2023,3,Gemeinde,63,Lufingen,22,116,18.97
+2025-11-27,2023,3,Gemeinde,64,Nürensdorf,26,218,11.93
+2025-11-27,2023,3,Gemeinde,65,Oberembrach,NULL,39,NULL
+2025-11-27,2023,3,Gemeinde,66,Opfikon,55,705,7.80
+2025-11-27,2023,3,Gemeinde,67,Rafz,26,206,12.63
+2025-11-27,2023,3,Gemeinde,68,Rorbas,8,123,6.50
+2025-11-27,2023,3,Gemeinde,69,Wallisellen,97,595,16.30
+2025-11-27,2023,3,Gemeinde,70,Wasterkingen,NULL,20,NULL
+2025-11-27,2023,3,Gemeinde,71,Wil (ZH),13,62,20.97
+2025-11-27,2023,3,Gemeinde,72,Winkel,32,144,22.22
+2025-11-27,2023,3,Gemeinde,81,Bachs,NULL,21,NULL
+2025-11-27,2023,3,Gemeinde,82,Boppelsen,8,72,11.11
+2025-11-27,2023,3,Gemeinde,83,Buchs (ZH),42,303,13.86
+2025-11-27,2023,3,Gemeinde,84,Dällikon,19,173,10.99
+2025-11-27,2023,3,Gemeinde,85,Dänikon,5,75,6.67
+2025-11-27,2023,3,Gemeinde,86,Dielsdorf,32,257,12.45
+2025-11-27,2023,3,Gemeinde,87,Hüttikon,NULL,32,NULL
+2025-11-27,2023,3,Gemeinde,88,Neerach,30,102,29.41
+2025-11-27,2023,3,Gemeinde,89,Niederglatt,17,230,7.39
+2025-11-27,2023,3,Gemeinde,90,Niederhasli,45,433,10.39
+2025-11-27,2023,3,Gemeinde,91,Niederweningen,17,147,11.56
+2025-11-27,2023,3,Gemeinde,92,Oberglatt,33,332,9.94
+2025-11-27,2023,3,Gemeinde,93,Oberweningen,20,87,22.99
+2025-11-27,2023,3,Gemeinde,94,Otelfingen,32,123,26.02
+2025-11-27,2023,3,Gemeinde,95,Regensberg,NULL,19,NULL
+2025-11-27,2023,3,Gemeinde,96,Regensdorf,75,767,9.78
+2025-11-27,2023,3,Gemeinde,97,Rümlang,29,283,10.25
+2025-11-27,2023,3,Gemeinde,98,Schleinikon,NULL,31,NULL
+2025-11-27,2023,3,Gemeinde,99,Schöfflisdorf,11,56,19.65
+2025-11-27,2023,3,Gemeinde,100,Stadel,18,111,16.22
+2025-11-27,2023,3,Gemeinde,101,Steinmaur,27,134,20.15
+2025-11-27,2023,3,Gemeinde,102,Weiach,4,64,6.25
+2025-11-27,2023,3,Gemeinde,111,Bäretswil,30,199,15.08
+2025-11-27,2023,3,Gemeinde,112,Bubikon,73,340,21.47
+2025-11-27,2023,3,Gemeinde,113,Dürnten,63,339,18.58
+2025-11-27,2023,3,Gemeinde,114,Fischenthal,10,124,8.06
+2025-11-27,2023,3,Gemeinde,115,Gossau (ZH),79,443,17.83
+2025-11-27,2023,3,Gemeinde,116,Grüningen,30,136,22.06
+2025-11-27,2023,3,Gemeinde,117,Hinwil,58,418,13.87
+2025-11-27,2023,3,Gemeinde,118,Rüti (ZH),57,494,11.53
+2025-11-27,2023,3,Gemeinde,119,Seegräben,NULL,50,NULL
+2025-11-27,2023,3,Gemeinde,120,Wald (ZH),35,390,8.97
+2025-11-27,2023,3,Gemeinde,121,Wetzikon (ZH),154,942,16.35
+2025-11-27,2023,3,Gemeinde,131,Adliswil,140,610,22.95
+2025-11-27,2023,3,Gemeinde,135,Kilchberg (ZH),91,262,34.73
+2025-11-27,2023,3,Gemeinde,136,Langnau am Albis,66,342,19.29
+2025-11-27,2023,3,Gemeinde,137,Oberrieden,61,171,35.67
+2025-11-27,2023,3,Gemeinde,138,Richterswil,94,554,16.97
+2025-11-27,2023,3,Gemeinde,139,Rüschlikon,60,196,30.61
+2025-11-27,2023,3,Gemeinde,141,Thalwil,163,596,27.35
+2025-11-27,2023,3,Gemeinde,151,Erlenbach (ZH),121,244,49.59
+2025-11-27,2023,3,Gemeinde,152,Herrliberg,131,278,47.12
+2025-11-27,2023,3,Gemeinde,153,Hombrechtikon,76,360,21.12
+2025-11-27,2023,3,Gemeinde,154,Küsnacht (ZH),251,539,46.57
+2025-11-27,2023,3,Gemeinde,155,Männedorf,212,495,42.83
+2025-11-27,2023,3,Gemeinde,156,Meilen,227,526,43.16
+2025-11-27,2023,3,Gemeinde,157,Oetwil am See,20,215,9.31
+2025-11-27,2023,3,Gemeinde,158,Stäfa,222,577,38.48
+2025-11-27,2023,3,Gemeinde,159,Uetikon am See,97,273,35.54
+2025-11-27,2023,3,Gemeinde,160,Zumikon,94,252,37.30
+2025-11-27,2023,3,Gemeinde,161,Zollikon,222,464,47.84
+2025-11-27,2023,3,Gemeinde,172,Fehraltorf,45,261,17.24
+2025-11-27,2023,3,Gemeinde,173,Hittnau,33,157,21.02
+2025-11-27,2023,3,Gemeinde,176,Lindau,37,250,14.80
+2025-11-27,2023,3,Gemeinde,177,Pfäffikon,99,450,22.00
+2025-11-27,2023,3,Gemeinde,178,Russikon,40,181,22.10
+2025-11-27,2023,3,Gemeinde,180,Weisslingen,21,155,13.55
+2025-11-27,2023,3,Gemeinde,181,Wila,5,79,6.33
+2025-11-27,2023,3,Gemeinde,182,Wildberg,NULL,34,NULL
+2025-11-27,2023,3,Gemeinde,191,Dübendorf,190,1084,17.53
+2025-11-27,2023,3,Gemeinde,192,Egg,88,333,26.43
+2025-11-27,2023,3,Gemeinde,193,Fällanden,95,364,26.09
+2025-11-27,2023,3,Gemeinde,194,Greifensee,57,241,23.65
+2025-11-27,2023,3,Gemeinde,195,Maur,126,431,29.24
+2025-11-27,2023,3,Gemeinde,196,Mönchaltorf,29,163,17.79
+2025-11-27,2023,3,Gemeinde,197,Schwerzenbach,22,189,11.64
+2025-11-27,2023,3,Gemeinde,198,Uster,324,1335,24.27
+2025-11-27,2023,3,Gemeinde,199,Volketswil,96,799,12.02
+2025-11-27,2023,3,Gemeinde,200,Wangen-Brüttisellen,55,360,15.28
+2025-11-27,2023,3,Gemeinde,211,Altikon,NULL,32,NULL
+2025-11-27,2023,3,Gemeinde,213,Brütten,22,56,39.29
+2025-11-27,2023,3,Gemeinde,214,Dägerlen,16,61,26.23
+2025-11-27,2023,3,Gemeinde,215,Dättlikon,NULL,37,NULL
+2025-11-27,2023,3,Gemeinde,216,Dinhard,12,65,18.46
+2025-11-27,2023,3,Gemeinde,218,Ellikon an der Thur,NULL,42,NULL
+2025-11-27,2023,3,Gemeinde,219,Elsau,35,161,21.74
+2025-11-27,2023,3,Gemeinde,220,Hagenbuch,NULL,32,NULL
+2025-11-27,2023,3,Gemeinde,221,Hettlingen,66,185,35.67
+2025-11-27,2023,3,Gemeinde,223,Neftenbach,44,236,18.64
+2025-11-27,2023,3,Gemeinde,224,Pfungen,33,186,17.74
+2025-11-27,2023,3,Gemeinde,225,Rickenbach (ZH),23,126,18.25
+2025-11-27,2023,3,Gemeinde,226,Schlatt (ZH),NULL,38,NULL
+2025-11-27,2023,3,Gemeinde,227,Seuzach,41,238,17.23
+2025-11-27,2023,3,Gemeinde,228,Turbenthal,21,196,10.71
+2025-11-27,2023,3,Gemeinde,230,Winterthur,817,4180,19.55
+2025-11-27,2023,3,Gemeinde,231,Zell (ZH),28,266,10.52
+2025-11-27,2023,3,Gemeinde,241,Aesch (ZH),15,55,27.27
+2025-11-27,2023,3,Gemeinde,242,Birmensdorf (ZH),56,235,23.83
+2025-11-27,2023,3,Gemeinde,243,Dietikon,85,1028,8.27
+2025-11-27,2023,3,Gemeinde,244,Geroldswil,33,196,16.84
+2025-11-27,2023,3,Gemeinde,245,Oberengstringen,26,265,9.81
+2025-11-27,2023,3,Gemeinde,246,Oetwil an der Limmat,21,91,23.08
+2025-11-27,2023,3,Gemeinde,247,Schlieren,52,684,7.60
+2025-11-27,2023,3,Gemeinde,248,Uitikon,97,179,54.19
+2025-11-27,2023,3,Gemeinde,249,Unterengstringen,23,140,16.42
+2025-11-27,2023,3,Gemeinde,250,Urdorf,57,386,14.77
+2025-11-27,2023,3,Gemeinde,251,Weiningen (ZH),32,205,15.61
+2025-11-27,2023,3,Gemeinde,261,Zürich,2913,12723,22.90
+2025-11-27,2023,3,Gemeinde,291,Andelfingen,36,133,27.07
+2025-11-27,2023,3,Gemeinde,292,Stammheim,17,118,14.40
+2025-11-27,2023,3,Gemeinde,293,Wädenswil,191,914,20.90
+2025-11-27,2023,3,Gemeinde,294,Elgg,35,202,17.33
+2025-11-27,2023,3,Gemeinde,295,Horgen,188,832,22.59
+2025-11-27,2023,3,Gemeinde,296,Illnau-Effretikon,106,688,15.41
+2025-11-27,2023,3,Gemeinde,297,Bauma,22,202,10.89
+2025-11-27,2023,3,Gemeinde,298,Wiesendangen,57,256,22.26
+2025-11-27,2023,6,Raumplanungsregion,101,Zürich,37869,165399,22.90
+2025-11-27,2023,6,Raumplanungsregion,102,Glattal,1065,6947,15.33
+2025-11-27,2023,6,Raumplanungsregion,103,Furttal,183,1545,11.84
+2025-11-27,2023,6,Raumplanungsregion,104,Limmattal,497,3464,14.35
+2025-11-27,2023,6,Raumplanungsregion,105,Knonaueramt,468,2247,20.82
+2025-11-27,2023,6,Raumplanungsregion,106,Zimmerberg,1054,4477,23.55
+2025-11-27,2023,6,Raumplanungsregion,107,Pfannenstiel,1761,4556,38.65
+2025-11-27,2023,6,Raumplanungsregion,108,Oberland,1204,6737,17.87
+2025-11-27,2023,6,Raumplanungsregion,109,Winterthur u.U.,7157,36948,19.37
+2025-11-27,2023,6,Raumplanungsregion,110,Weinland,205,1365,15.02
+2025-11-27,2023,6,Raumplanungsregion,111,Unterland,723,5041,14.34
+2025-11-27,2024,1,Kanton,1,Kanton Zürich,11893,58530,20.32
+2025-11-27,2024,2,Bezirk,101,Bezirk Affoltern,485,2244,21.62
+2025-11-27,2024,2,Bezirk,102,Bezirk Andelfingen,198,1376,14.39
+2025-11-27,2024,2,Bezirk,103,Bezirk Bülach,891,6282,14.18
+2025-11-27,2024,2,Bezirk,104,Bezirk Dielsdorf,466,3911,11.92
+2025-11-27,2024,2,Bezirk,105,Bezirk Hinwil,598,3986,15.00
+2025-11-27,2024,2,Bezirk,106,Bezirk Horgen,1097,4666,23.51
+2025-11-27,2024,2,Bezirk,107,Bezirk Meilen,1785,4394,40.63
+2025-11-27,2024,2,Bezirk,108,Bezirk Pfäffikon,411,2507,16.40
+2025-11-27,2024,2,Bezirk,109,Bezirk Uster,1114,5331,20.89
+2025-11-27,2024,2,Bezirk,110,Bezirk Winterthur,1294,6832,18.94
+2025-11-27,2024,2,Bezirk,111,Bezirk Dietikon,512,3498,14.64
+2025-11-27,2024,2,Bezirk,112,Bezirk Zürich,3042,13503,22.53
+2025-11-27,2024,3,Gemeinde,1,Aeugst am Albis,20,73,27.40
+2025-11-27,2024,3,Gemeinde,2,Affoltern am Albis,68,462,14.72
+2025-11-27,2024,3,Gemeinde,3,Bonstetten,65,244,26.64
+2025-11-27,2024,3,Gemeinde,4,Hausen am Albis,33,165,20.00
+2025-11-27,2024,3,Gemeinde,5,Hedingen,62,188,32.97
+2025-11-27,2024,3,Gemeinde,6,Kappel am Albis,NULL,47,NULL
+2025-11-27,2024,3,Gemeinde,7,Knonau,13,88,14.78
+2025-11-27,2024,3,Gemeinde,8,Maschwanden,NULL,13,NULL
+2025-11-27,2024,3,Gemeinde,9,Mettmenstetten,35,209,16.75
+2025-11-27,2024,3,Gemeinde,10,Obfelden,37,256,14.45
+2025-11-27,2024,3,Gemeinde,11,Ottenbach,19,106,17.92
+2025-11-27,2024,3,Gemeinde,12,Rifferswil,NULL,50,NULL
+2025-11-27,2024,3,Gemeinde,13,Stallikon,30,127,23.62
+2025-11-27,2024,3,Gemeinde,14,Wettswil am Albis,81,216,37.50
+2025-11-27,2024,3,Gemeinde,22,Benken (ZH),NULL,37,NULL
+2025-11-27,2024,3,Gemeinde,23,Berg am Irchel,NULL,14,NULL
+2025-11-27,2024,3,Gemeinde,24,Buch am Irchel,11,52,21.15
+2025-11-27,2024,3,Gemeinde,25,Dachsen,6,96,6.25
+2025-11-27,2024,3,Gemeinde,26,Dorf,NULL,38,NULL
+2025-11-27,2024,3,Gemeinde,27,Feuerthalen,5,140,3.57
+2025-11-27,2024,3,Gemeinde,28,Flaach,11,66,16.67
+2025-11-27,2024,3,Gemeinde,29,Flurlingen,3,61,4.92
+2025-11-27,2024,3,Gemeinde,31,Henggart,15,108,13.89
+2025-11-27,2024,3,Gemeinde,33,Kleinandelfingen,18,85,21.18
+2025-11-27,2024,3,Gemeinde,34,Laufen-Uhwiesen,7,76,9.21
+2025-11-27,2024,3,Gemeinde,35,Marthalen,9,71,12.68
+2025-11-27,2024,3,Gemeinde,37,Ossingen,9,71,12.68
+2025-11-27,2024,3,Gemeinde,38,Rheinau,8,52,15.38
+2025-11-27,2024,3,Gemeinde,39,Thalheim an der Thur,7,51,13.73
+2025-11-27,2024,3,Gemeinde,40,Trüllikon,14,51,27.45
+2025-11-27,2024,3,Gemeinde,41,Truttikon,NULL,22,NULL
+2025-11-27,2024,3,Gemeinde,43,Volken,NULL,18,NULL
+2025-11-27,2024,3,Gemeinde,51,Bachenbülach,30,176,17.05
+2025-11-27,2024,3,Gemeinde,52,Bassersdorf,87,519,16.77
+2025-11-27,2024,3,Gemeinde,53,Bülach,131,910,14.40
+2025-11-27,2024,3,Gemeinde,54,Dietlikon,53,311,17.04
+2025-11-27,2024,3,Gemeinde,55,Eglisau,55,221,24.88
+2025-11-27,2024,3,Gemeinde,56,Embrach,55,468,11.75
+2025-11-27,2024,3,Gemeinde,57,Freienstein-Teufen,13,108,12.04
+2025-11-27,2024,3,Gemeinde,58,Glattfelden,36,216,16.67
+2025-11-27,2024,3,Gemeinde,59,Hochfelden,15,90,16.66
+2025-11-27,2024,3,Gemeinde,60,Höri,5,141,3.55
+2025-11-27,2024,3,Gemeinde,61,Hüntwangen,10,52,19.23
+2025-11-27,2024,3,Gemeinde,62,Kloten,71,825,8.60
+2025-11-27,2024,3,Gemeinde,63,Lufingen,24,116,20.69
+2025-11-27,2024,3,Gemeinde,64,Nürensdorf,28,219,12.78
+2025-11-27,2024,3,Gemeinde,65,Oberembrach,NULL,41,NULL
+2025-11-27,2024,3,Gemeinde,66,Opfikon,93,734,12.67
+2025-11-27,2024,3,Gemeinde,67,Rafz,24,185,12.97
+2025-11-27,2024,3,Gemeinde,68,Rorbas,8,130,6.16
+2025-11-27,2024,3,Gemeinde,69,Wallisellen,97,588,16.50
+2025-11-27,2024,3,Gemeinde,70,Wasterkingen,NULL,26,NULL
+2025-11-27,2024,3,Gemeinde,71,Wil (ZH),15,73,20.55
+2025-11-27,2024,3,Gemeinde,72,Winkel,28,133,21.06
+2025-11-27,2024,3,Gemeinde,81,Bachs,NULL,16,NULL
+2025-11-27,2024,3,Gemeinde,82,Boppelsen,11,69,15.94
+2025-11-27,2024,3,Gemeinde,83,Buchs (ZH),42,299,14.05
+2025-11-27,2024,3,Gemeinde,84,Dällikon,14,167,8.39
+2025-11-27,2024,3,Gemeinde,85,Dänikon,8,77,10.39
+2025-11-27,2024,3,Gemeinde,86,Dielsdorf,30,261,11.49
+2025-11-27,2024,3,Gemeinde,87,Hüttikon,NULL,32,NULL
+2025-11-27,2024,3,Gemeinde,88,Neerach,25,107,23.36
+2025-11-27,2024,3,Gemeinde,89,Niederglatt,20,238,8.40
+2025-11-27,2024,3,Gemeinde,90,Niederhasli,43,457,9.41
+2025-11-27,2024,3,Gemeinde,91,Niederweningen,18,151,11.92
+2025-11-27,2024,3,Gemeinde,92,Oberglatt,31,350,8.86
+2025-11-27,2024,3,Gemeinde,93,Oberweningen,11,82,13.41
+2025-11-27,2024,3,Gemeinde,94,Otelfingen,32,125,25.60
+2025-11-27,2024,3,Gemeinde,95,Regensberg,NULL,23,NULL
+2025-11-27,2024,3,Gemeinde,96,Regensdorf,75,778,9.64
+2025-11-27,2024,3,Gemeinde,97,Rümlang,29,292,9.93
+2025-11-27,2024,3,Gemeinde,98,Schleinikon,NULL,32,NULL
+2025-11-27,2024,3,Gemeinde,99,Schöfflisdorf,13,56,23.22
+2025-11-27,2024,3,Gemeinde,100,Stadel,21,110,19.09
+2025-11-27,2024,3,Gemeinde,101,Steinmaur,24,123,19.51
+2025-11-27,2024,3,Gemeinde,102,Weiach,3,66,4.55
+2025-11-27,2024,3,Gemeinde,111,Bäretswil,33,206,16.02
+2025-11-27,2024,3,Gemeinde,112,Bubikon,78,359,21.72
+2025-11-27,2024,3,Gemeinde,113,Dürnten,70,369,18.97
+2025-11-27,2024,3,Gemeinde,114,Fischenthal,12,134,8.96
+2025-11-27,2024,3,Gemeinde,115,Gossau (ZH),85,456,18.64
+2025-11-27,2024,3,Gemeinde,116,Grüningen,26,128,20.31
+2025-11-27,2024,3,Gemeinde,117,Hinwil,52,426,12.20
+2025-11-27,2024,3,Gemeinde,118,Rüti (ZH),57,512,11.14
+2025-11-27,2024,3,Gemeinde,119,Seegräben,NULL,47,NULL
+2025-11-27,2024,3,Gemeinde,120,Wald (ZH),33,395,8.35
+2025-11-27,2024,3,Gemeinde,121,Wetzikon (ZH),141,954,14.78
+2025-11-27,2024,3,Gemeinde,131,Adliswil,145,666,21.77
+2025-11-27,2024,3,Gemeinde,135,Kilchberg (ZH),90,288,31.25
+2025-11-27,2024,3,Gemeinde,136,Langnau am Albis,66,339,19.47
+2025-11-27,2024,3,Gemeinde,137,Oberrieden,63,172,36.63
+2025-11-27,2024,3,Gemeinde,138,Richterswil,116,591,19.63
+2025-11-27,2024,3,Gemeinde,139,Rüschlikon,57,213,26.76
+2025-11-27,2024,3,Gemeinde,141,Thalwil,170,618,27.51
+2025-11-27,2024,3,Gemeinde,151,Erlenbach (ZH),136,251,54.19
+2025-11-27,2024,3,Gemeinde,152,Herrliberg,123,290,42.41
+2025-11-27,2024,3,Gemeinde,153,Hombrechtikon,66,350,18.86
+2025-11-27,2024,3,Gemeinde,154,Küsnacht (ZH),282,591,47.72
+2025-11-27,2024,3,Gemeinde,155,Männedorf,207,510,40.59
+2025-11-27,2024,3,Gemeinde,156,Meilen,257,563,45.65
+2025-11-27,2024,3,Gemeinde,157,Oetwil am See,26,225,11.55
+2025-11-27,2024,3,Gemeinde,158,Stäfa,239,593,40.30
+2025-11-27,2024,3,Gemeinde,159,Uetikon am See,92,269,34.21
+2025-11-27,2024,3,Gemeinde,160,Zumikon,103,272,37.87
+2025-11-27,2024,3,Gemeinde,161,Zollikon,254,480,52.92
+2025-11-27,2024,3,Gemeinde,172,Fehraltorf,58,268,21.64
+2025-11-27,2024,3,Gemeinde,173,Hittnau,28,157,17.84
+2025-11-27,2024,3,Gemeinde,176,Lindau,31,259,11.96
+2025-11-27,2024,3,Gemeinde,177,Pfäffikon,89,457,19.47
+2025-11-27,2024,3,Gemeinde,178,Russikon,41,193,21.25
+2025-11-27,2024,3,Gemeinde,180,Weisslingen,22,160,13.76
+2025-11-27,2024,3,Gemeinde,181,Wila,5,84,5.95
+2025-11-27,2024,3,Gemeinde,182,Wildberg,NULL,36,NULL
+2025-11-27,2024,3,Gemeinde,191,Dübendorf,177,1032,17.15
+2025-11-27,2024,3,Gemeinde,192,Egg,101,339,29.79
+2025-11-27,2024,3,Gemeinde,193,Fällanden,104,403,25.80
+2025-11-27,2024,3,Gemeinde,194,Greifensee,57,240,23.75
+2025-11-27,2024,3,Gemeinde,195,Maur,137,426,32.16
+2025-11-27,2024,3,Gemeinde,196,Mönchaltorf,24,146,16.44
+2025-11-27,2024,3,Gemeinde,197,Schwerzenbach,30,196,15.31
+2025-11-27,2024,3,Gemeinde,198,Uster,332,1384,23.99
+2025-11-27,2024,3,Gemeinde,199,Volketswil,98,808,12.13
+2025-11-27,2024,3,Gemeinde,200,Wangen-Brüttisellen,54,357,15.13
+2025-11-27,2024,3,Gemeinde,211,Altikon,NULL,33,NULL
+2025-11-27,2024,3,Gemeinde,213,Brütten,21,65,32.31
+2025-11-27,2024,3,Gemeinde,214,Dägerlen,10,65,15.39
+2025-11-27,2024,3,Gemeinde,215,Dättlikon,NULL,48,NULL
+2025-11-27,2024,3,Gemeinde,216,Dinhard,13,65,20.00
+2025-11-27,2024,3,Gemeinde,218,Ellikon an der Thur,NULL,40,NULL
+2025-11-27,2024,3,Gemeinde,219,Elsau,36,162,22.22
+2025-11-27,2024,3,Gemeinde,220,Hagenbuch,NULL,31,NULL
+2025-11-27,2024,3,Gemeinde,221,Hettlingen,59,180,32.78
+2025-11-27,2024,3,Gemeinde,223,Neftenbach,39,240,16.25
+2025-11-27,2024,3,Gemeinde,224,Pfungen,29,191,15.18
+2025-11-27,2024,3,Gemeinde,225,Rickenbach (ZH),22,130,16.92
+2025-11-27,2024,3,Gemeinde,226,Schlatt (ZH),NULL,44,NULL
+2025-11-27,2024,3,Gemeinde,227,Seuzach,44,257,17.12
+2025-11-27,2024,3,Gemeinde,228,Turbenthal,18,193,9.33
+2025-11-27,2024,3,Gemeinde,230,Winterthur,861,4370,19.70
+2025-11-27,2024,3,Gemeinde,231,Zell (ZH),29,263,11.03
+2025-11-27,2024,3,Gemeinde,241,Aesch (ZH),14,54,25.93
+2025-11-27,2024,3,Gemeinde,242,Birmensdorf (ZH),66,228,28.95
+2025-11-27,2024,3,Gemeinde,243,Dietikon,87,1045,8.32
+2025-11-27,2024,3,Gemeinde,244,Geroldswil,35,217,16.13
+2025-11-27,2024,3,Gemeinde,245,Oberengstringen,28,275,10.18
+2025-11-27,2024,3,Gemeinde,246,Oetwil an der Limmat,20,91,21.98
+2025-11-27,2024,3,Gemeinde,247,Schlieren,51,669,7.62
+2025-11-27,2024,3,Gemeinde,248,Uitikon,95,178,53.38
+2025-11-27,2024,3,Gemeinde,249,Unterengstringen,24,153,15.68
+2025-11-27,2024,3,Gemeinde,250,Urdorf,61,396,15.41
+2025-11-27,2024,3,Gemeinde,251,Weiningen (ZH),31,192,16.15
+2025-11-27,2024,3,Gemeinde,261,Zürich,3042,13503,22.53
+2025-11-27,2024,3,Gemeinde,291,Andelfingen,40,142,28.17
+2025-11-27,2024,3,Gemeinde,292,Stammheim,17,125,13.60
+2025-11-27,2024,3,Gemeinde,293,Wädenswil,188,935,20.11
+2025-11-27,2024,3,Gemeinde,294,Elgg,26,193,13.47
+2025-11-27,2024,3,Gemeinde,295,Horgen,202,844,23.93
+2025-11-27,2024,3,Gemeinde,296,Illnau-Effretikon,106,691,15.34
+2025-11-27,2024,3,Gemeinde,297,Bauma,23,202,11.39
+2025-11-27,2024,3,Gemeinde,298,Wiesendangen,53,262,20.23
+2025-11-27,2024,6,Raumplanungsregion,101,Zürich,39546,175539,22.53
+2025-11-27,2024,6,Raumplanungsregion,102,Glattal,1115,6950,16.05
+2025-11-27,2024,6,Raumplanungsregion,103,Furttal,187,1547,12.08
+2025-11-27,2024,6,Raumplanungsregion,104,Limmattal,512,3498,14.64
+2025-11-27,2024,6,Raumplanungsregion,105,Knonaueramt,485,2244,21.62
+2025-11-27,2024,6,Raumplanungsregion,106,Zimmerberg,1097,4666,23.51
+2025-11-27,2024,6,Raumplanungsregion,107,Pfannenstiel,1886,4733,39.85
+2025-11-27,2024,6,Raumplanungsregion,108,Oberland,1206,6913,17.44
+2025-11-27,2024,6,Raumplanungsregion,109,Winterthur u.U.,7480,38532,19.41
+2025-11-27,2024,6,Raumplanungsregion,110,Weinland,198,1376,14.39
+2025-11-27,2024,6,Raumplanungsregion,111,Unterland,712,5158,13.80
